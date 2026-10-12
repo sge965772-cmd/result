@@ -1,5 +1,14 @@
 # 油膜气泡碰撞结果数据：备份与溯源
 
+## ChatGPT 可读取的定量分析数据
+
+新增 [定量分析入口](analysis/collision-results-20261012-v1/README.md)、[四组目录](analysis/collision-results-20261012-v1/catalog.csv) 和 [数据字典](analysis/collision-results-20261012-v1/DATA_DICTIONARY.md)。四组核心历史及 64 张原始时序／径向环表已提供普通 UTF-8 CSV 分块，可通过 GitHub 工具按路径读取；完整数值、NaN、来源行号、重启段和失败尾段保留。
+
+进行全量数值分析时，使用入口中的 fetch_analysis.py 获取四个约 5 MB 的核心 CSV，再作为普通文件附件上传 ChatGPT 并要求用数据分析工具读取所有行。只有网页预览或 CSV 的部分行时，不得声称已经完成全部数据分析。原始大体积 dump 继续从下方 Release 获取，不与 CSV 时序统计混为同一数据范围。
+
+本次仅新增读取层，以下原始备份说明与验收状态保持不变。
+
+
 本仓库保存四条既有碰撞结果的版本索引、来源清单和验收记录。大体积数据通过 GitHub Release 附件提供，常规 Git 仅保存可审计元数据。
 
 ## 本次数据版本

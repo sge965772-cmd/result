@@ -1,0 +1,5 @@
+case,label_speed_m_s,status,rows_including_retained_tails,time_min_s,time_max_saved_table_s,direct_upload_bytes
+U010,0.10,Frozen F-R/L12 rebound baseline; not a grid-independence claim,3000,1e-05,0.029999999999998948,5185202
+U0183,0.183,Registered three-segment accepted prefixes 0->16.1->20.2->30 ms; failure tails retained,3017,1e-05,0.0299999999999996,5308722
+U0200,0.200,Completed 30 ms but no coalescence trigger; original coalescence acceptance FAILED,3001,0.0,0.029999999999998948,5248364
+U0212,0.212,Failed at approximately 29.19575 ms; no completed 30 ms state,2920,0.0,0.02918999999999898,5137031

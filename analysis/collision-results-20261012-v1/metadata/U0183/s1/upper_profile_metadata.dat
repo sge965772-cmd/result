@@ -1,0 +1,9 @@
+profile_file inputs/upper-profile.csv
+points 1025
+outer_volume 9.9697105671388767e-09
+gas_volume 7.9757797780929527e-09
+oil_volume 1.9939307890459241e-09
+oil_fraction 0.19999886412130272
+outer_centroid_local 0.001329686130042116
+axial_offset -0.015053766057881541
+minimum_radial_film 9.594604581629777e-05

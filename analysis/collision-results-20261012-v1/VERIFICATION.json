@@ -1,0 +1,497 @@
+{
+  "schema": "analysis-full-row-independent-readback-v1",
+  "tables": [
+    {
+      "case": "U010",
+      "segment": "s1",
+      "table": "anchor_stats",
+      "rows": 3000,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U010",
+      "segment": "s1",
+      "table": "contact_amr_stats",
+      "rows": 3000,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U010",
+      "segment": "s1",
+      "table": "film_state_primitive",
+      "rows": 9600,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U010",
+      "segment": "s1",
+      "table": "film_state_stats",
+      "rows": 3000,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U010",
+      "segment": "s1",
+      "table": "initialization_audit",
+      "rows": 1,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "anchor_stats",
+      "rows": 418,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "contact_amr_stats",
+      "rows": 418,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_primitive",
+      "rows": 1344,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00000",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00001",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00002",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00003",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00004",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00005",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00006",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00007",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00008",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00009",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00010",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00011",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00012",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00013",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00014",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00015",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_stats",
+      "rows": 418,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "initialization_audit",
+      "rows": 1,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s3",
+      "table": "anchor_stats",
+      "rows": 981,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s3",
+      "table": "contact_amr_stats",
+      "rows": 981,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s3",
+      "table": "film_state_primitive",
+      "rows": 3168,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s3",
+      "table": "film_state_stats",
+      "rows": 981,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s3",
+      "table": "initialization_audit",
+      "rows": 1,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s1",
+      "table": "anchor_stats",
+      "rows": 1618,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s1",
+      "table": "contact_amr_stats",
+      "rows": 1618,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s1",
+      "table": "film_state_primitive",
+      "rows": 5152,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s1",
+      "table": "film_state_stats",
+      "rows": 1618,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0183",
+      "segment": "s1",
+      "table": "initialization_audit",
+      "rows": 1,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0200",
+      "segment": "s1",
+      "table": "anchor_stats",
+      "rows": 3001,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0200",
+      "segment": "s1",
+      "table": "coalescence_stats",
+      "rows": 3001,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0200",
+      "segment": "s1",
+      "table": "contact_amr_stats",
+      "rows": 3001,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0200",
+      "segment": "s1",
+      "table": "film_state_primitive",
+      "rows": 9632,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0200",
+      "segment": "s1",
+      "table": "film_state_stats",
+      "rows": 3001,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0200",
+      "segment": "s1",
+      "table": "initialization_audit",
+      "rows": 1,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "anchor_stats",
+      "rows": 2920,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "coalescence_stats",
+      "rows": 2920,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "contact_amr_stats",
+      "rows": 2920,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_primitive",
+      "rows": 9344,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00000",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00001",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00002",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00003",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00004",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00005",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00006",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00007",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00008",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00009",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00010",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00011",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00012",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00013",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00014",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00015",
+      "rows": 32,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_stats",
+      "rows": 2920,
+      "all_original_tokens_match": true
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "initialization_audit",
+      "rows": 1,
+      "all_original_tokens_match": true
+    }
+  ],
+  "core": [
+    {
+      "case": "U010",
+      "rows": 3000,
+      "history_use_counts": {
+        "retained_single_run": 3000
+      },
+      "sha256": "c9efb244b1c6c6184234170464b6ef25dd6caea39d0a14ba1092e67756184944",
+      "all_parts_reconstruct_full_csv": true
+    },
+    {
+      "case": "U0183",
+      "rows": 3017,
+      "history_use_counts": {
+        "registered_prefix": 3000,
+        "post_checkpoint_failure_tail": 15,
+        "restart_duplicate": 2
+      },
+      "sha256": "4cb39e359ce356e6cf9e04b67d32117455497d0a89173c35d03a17d79128eed0",
+      "all_parts_reconstruct_full_csv": true
+    },
+    {
+      "case": "U0200",
+      "rows": 3001,
+      "history_use_counts": {
+        "retained_single_run": 3001
+      },
+      "sha256": "5f299421589fd86566ed368c47c330b7370a6904cb93babeaacb26dc40cdccf7",
+      "all_parts_reconstruct_full_csv": true
+    },
+    {
+      "case": "U0212",
+      "rows": 2920,
+      "history_use_counts": {
+        "retained_single_run": 2920
+      },
+      "sha256": "17cc61f08c58aca1d51ec5996eabb3cf5dee9abc46690f0fc57868106592d37e",
+      "all_parts_reconstruct_full_csv": true
+    }
+  ],
+  "all_pass": true,
+  "no_sampling": true,
+  "no_float_text_reformat": true,
+  "original_scientific_acceptance_unchanged": true
+}

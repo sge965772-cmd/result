@@ -1,0 +1,2 @@
+case_id,segment_id,source_line,profile_mode,requested_gap,plic_gap,plic_valid,lower_center,upper_center,lower_u,upper_u,envelope_overlap,gas_overlap,nesting,overfill
+U0183,s1,2,1,0.00080000000000000004,0.00080189469901845514,1,-0.017083516155252283,-0.013724157434825211,0.18309309222623532,0.011931036257373189,0,0,0,0

@@ -1,0 +1,27 @@
+{
+  "case_hash": "1bbb8f28d605c564a55e056b508a993849bee0849f849b837135ccba48a5bb2e",
+  "case_id": "F-R-U010-L12",
+  "claim_scope": "screening-boundary,non-predictive,no-rupture-model",
+  "enable_stateful_film": 1,
+  "film_adapter_override": "on",
+  "film_state_model": "axisymmetric-stateful-reynolds-film-v1",
+  "grid_role": "golden",
+  "np": 32,
+  "numerics": {
+    "anchor_release_gap_m": 7.8125e-05,
+    "domain_length": 0.08,
+    "dt_max": 2.5e-07,
+    "dump_interval": 0.0001,
+    "end_time": 0.03,
+    "initial_gap_m": 0.0008,
+    "initial_gap_tolerance_cells": 0.5,
+    "maxlevel": 12,
+    "minlevel": 7,
+    "oil_volume_fraction": 0.2,
+    "outer_radius_m": 0.001320572320256714,
+    "output_interval": 1e-05
+  },
+  "schema": "f-r-production-attempt-v1",
+  "source_commit": "fca689f6518f0d353e14eaf8a6a400412138e4e4",
+  "source_sha256_manifest": "inputs/source_sha256s.txt"
+}

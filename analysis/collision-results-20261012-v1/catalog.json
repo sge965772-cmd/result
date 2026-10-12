@@ -1,0 +1,3712 @@
+{
+  "schema": "lossless-collision-analysis-layer-v1",
+  "archive_release": "collision-results-20261011-v1",
+  "archive_manifest_sha256": "047a6274dacfa7ac884eecf197ccdf5611193b02f6cb92936acfb8c6d68a1db4",
+  "no_simulation_execution": true,
+  "original_archives_unchanged": true,
+  "no_smoothing": true,
+  "no_row_sampling": true,
+  "no_missing_value_fill": true,
+  "source_files": 82,
+  "source_bytes": 32830875,
+  "cases": [
+    {
+      "case": "U010",
+      "label_speed_m_s": "0.10",
+      "status": "Frozen F-R/L12 rebound baseline; not a grid-independence claim",
+      "rows_including_retained_tails": 3000,
+      "segments": [
+        "s1"
+      ],
+      "time_min_s": 1e-05,
+      "time_max_saved_table_s": 0.029999999999998948,
+      "registered_rows": null,
+      "direct_upload_csv": "U010_core_history.csv",
+      "direct_upload_bytes": 5185202,
+      "direct_upload_sha256": "c9efb244b1c6c6184234170464b6ef25dd6caea39d0a14ba1092e67756184944",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U010/core_history.part-0001.csv",
+          "bytes": 510766,
+          "sha256": "81ca377ee1612acd0a57dcf96db54f9788b76ad652a741a1286b7fad9ca8f9fb"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U010/core_history.part-0002.csv",
+          "bytes": 510828,
+          "sha256": "ebb3b7e8f93a9448b06bb6397d7eb400a3386e0e56106695e63dc34d0d90fe3c"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U010/core_history.part-0003.csv",
+          "bytes": 510796,
+          "sha256": "58a5e121292d2ac27d46c6eee84a7a5c2196ae83e0f440396ff3f7cb74cf217f"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U010/core_history.part-0004.csv",
+          "bytes": 511364,
+          "sha256": "9b26edae873236eaffda571166fa13a397f4b1e935abd0105df6fa6baa4d5ca9"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U010/core_history.part-0005.csv",
+          "bytes": 511019,
+          "sha256": "ceb95feda46cabdb7e22f90e586c57e033ebe6de55f2ac8a39c9774257a9011c"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U010/core_history.part-0006.csv",
+          "bytes": 510680,
+          "sha256": "201d626823549fb56d82c76c66a29481453fabd18551cd04bb30ad256dde2850"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U010/core_history.part-0007.csv",
+          "bytes": 510606,
+          "sha256": "4493e71e1ab22166c2874e2b0ce9ee5d22cd76308ea10f66e130e9d391d3dbf9"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U010/core_history.part-0008.csv",
+          "bytes": 510995,
+          "sha256": "a38514f29997515759fe8e4667035adb81ae1b008d6d6578597d1f21af2f483c"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U010/core_history.part-0009.csv",
+          "bytes": 511408,
+          "sha256": "877078bc9656c928b5f283ec7974a900bcac0bd724785473a5a8e898f8a07488"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U010/core_history.part-0010.csv",
+          "bytes": 510653,
+          "sha256": "ff968d9834e07ff15303d635e529729d2d329474106c908d677386c7088c541e"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U010/core_history.part-0011.csv",
+          "bytes": 115877,
+          "sha256": "5d8061265338fbd59a5eb3317d876f5af77e5ee1f57c929f970399a915aa774d"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "label_speed_m_s": "0.183",
+      "status": "Registered three-segment accepted prefixes 0->16.1->20.2->30 ms; failure tails retained",
+      "rows_including_retained_tails": 3017,
+      "segments": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "time_min_s": 1e-05,
+      "time_max_saved_table_s": 0.0299999999999996,
+      "registered_rows": 3000,
+      "direct_upload_csv": "U0183_core_history.csv",
+      "direct_upload_bytes": 5308722,
+      "direct_upload_sha256": "4cb39e359ce356e6cf9e04b67d32117455497d0a89173c35d03a17d79128eed0",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0183/core_history.part-0001.csv",
+          "bytes": 510576,
+          "sha256": "6d86610b7384a919a8b6c1c291e70447dabc945f1eb9a49398a0688b67307808"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0183/core_history.part-0002.csv",
+          "bytes": 510205,
+          "sha256": "0e77456a4a386850575e4e3869975f4182902995f5de140f5b18dfba5b4fa32f"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0183/core_history.part-0003.csv",
+          "bytes": 511062,
+          "sha256": "08193b7f30928339c45544301589826eed8ed58e6594f0bb5217ac33b2a59159"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0183/core_history.part-0004.csv",
+          "bytes": 511702,
+          "sha256": "76de08aa2d1a78814023588cd0296a652d032addbc0416bc6f102b1997e1936c"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0183/core_history.part-0005.csv",
+          "bytes": 511598,
+          "sha256": "1af38b72d3a056c12856c8112fbfd2fdf4cb1c34eae37178e421cbc2e9b8bdf4"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0183/core_history.part-0006.csv",
+          "bytes": 510577,
+          "sha256": "66c1d43d33e41c7fa5fc413686e7349c70c2239b49dbd9261aa6c0d041938262"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0183/core_history.part-0007.csv",
+          "bytes": 510878,
+          "sha256": "f8429609ea98d7c5fb975378af6be58464746b08f15ec0870893fd3418bddc19"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0183/core_history.part-0008.csv",
+          "bytes": 510989,
+          "sha256": "86eccb4a38b7a41e49d2d623f73c003a01925eaa0ab4f3103b5930121c7b02df"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0183/core_history.part-0009.csv",
+          "bytes": 510476,
+          "sha256": "0cbe8c31c10fd253f5244370de222b96835bf1f08589e0caf6b562212817b1f3"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0183/core_history.part-0010.csv",
+          "bytes": 511498,
+          "sha256": "9c264f88d3f67122a25aaf498766a70e33a792828ff37460dacd8e6644a0cafd"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0183/core_history.part-0011.csv",
+          "bytes": 238951,
+          "sha256": "8a48f2361c6168d20241549124ddde63fc384870a6ca9acaa5a67dbe061380a7"
+        }
+      ]
+    },
+    {
+      "case": "U0200",
+      "label_speed_m_s": "0.200",
+      "status": "Completed 30 ms but no coalescence trigger; original coalescence acceptance FAILED",
+      "rows_including_retained_tails": 3001,
+      "segments": [
+        "s1"
+      ],
+      "time_min_s": 0.0,
+      "time_max_saved_table_s": 0.029999999999998948,
+      "registered_rows": null,
+      "direct_upload_csv": "U0200_core_history.csv",
+      "direct_upload_bytes": 5248364,
+      "direct_upload_sha256": "5f299421589fd86566ed368c47c330b7370a6904cb93babeaacb26dc40cdccf7",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0200/core_history.part-0001.csv",
+          "bytes": 511272,
+          "sha256": "f929f2fe47bd27ab55e208f85b4d505348568b673293fac189e55455eb124ae9"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0200/core_history.part-0002.csv",
+          "bytes": 511242,
+          "sha256": "7f35207cc3ade7ad51f617d4e27728d5490ed44490d811e5657cacfc4c182ebd"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0200/core_history.part-0003.csv",
+          "bytes": 510680,
+          "sha256": "6f5bd6d8588846d95b9ae4cce4b4ed1e504f2c8bd39489459bdf258bd0295674"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0200/core_history.part-0004.csv",
+          "bytes": 510757,
+          "sha256": "df19761366c2aabe9b8da1be3886a061697cbb712bd04402feb2dfbf27973dbf"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0200/core_history.part-0005.csv",
+          "bytes": 511058,
+          "sha256": "d9329196cf2f22e9e1d97c537e4d78ee823f08cdc72836ae0cd4281e18ad1032"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0200/core_history.part-0006.csv",
+          "bytes": 511731,
+          "sha256": "e2566d4c81632cdcd710fa34c5d4da8d8c6b3497c80deec533e3fd67d51af4c8"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0200/core_history.part-0007.csv",
+          "bytes": 510321,
+          "sha256": "e1feebaee3e59af5f5efdea70ff30bf6d953466c8be45c314349f2e0094c3221"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0200/core_history.part-0008.csv",
+          "bytes": 510886,
+          "sha256": "e7797211986c9f45a4fb2138eb9b1eeba66ed200bc05a48458c03cda8306096a"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0200/core_history.part-0009.csv",
+          "bytes": 511338,
+          "sha256": "6ac12b990ad1a682a47e2d2987e492a973b48bd3ef6885d350bd2a64bcd509c0"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0200/core_history.part-0010.csv",
+          "bytes": 510608,
+          "sha256": "069cfa126c28d6076f8fb0510a9d30cae1de1fb571d35291e11edae4bb2446e5"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0200/core_history.part-0011.csv",
+          "bytes": 178261,
+          "sha256": "81423a55a5aaf52a8df52a0aa23c7bd51e200fa0271ab2c4418633e58da8f916"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "label_speed_m_s": "0.212",
+      "actual_precursor_speed_m_s": "0.21162571406691141",
+      "status": "Failed at approximately 29.19575 ms; no completed 30 ms state",
+      "rows_including_retained_tails": 2920,
+      "segments": [
+        "s1"
+      ],
+      "time_min_s": 0.0,
+      "time_max_saved_table_s": 0.02918999999999898,
+      "registered_rows": null,
+      "direct_upload_csv": "U0212_core_history.csv",
+      "direct_upload_bytes": 5137031,
+      "direct_upload_sha256": "17cc61f08c58aca1d51ec5996eabb3cf5dee9abc46690f0fc57868106592d37e",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0212/core_history.part-0001.csv",
+          "bytes": 511202,
+          "sha256": "8b94fdbd5f5dff4e329c385ded9371b43fe4abf62b25cbfaa88d96aa87fdb3e8"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0212/core_history.part-0002.csv",
+          "bytes": 510514,
+          "sha256": "43cee32ae2aad33dfa5a912dca8cb70c0d39bcb779707d54dbf319445c5a72f2"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0212/core_history.part-0003.csv",
+          "bytes": 511642,
+          "sha256": "e2f1558f747cc3d6d5dce8c8764702b2cacc6f9221baab49a7e4b7345625fe49"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0212/core_history.part-0004.csv",
+          "bytes": 511653,
+          "sha256": "47991cb9cfb8c56848b4d3d90abf42203d52896c29c700cd54292441d00c127b"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0212/core_history.part-0005.csv",
+          "bytes": 511841,
+          "sha256": "11e19ab36d2f43a16d529fea7288d87e2925148baecd6bef999c5892b7348922"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0212/core_history.part-0006.csv",
+          "bytes": 510300,
+          "sha256": "f9e5e8dbc3f93f01f45b7d911c1377d6ed63b3aa3f1deb74f75759e43c3d96e0"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0212/core_history.part-0007.csv",
+          "bytes": 510567,
+          "sha256": "8f9a1a6c1e310e9e85f9ab3d5c2acec2ae8a280508148cd9f5a807a3fbdbe12c"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0212/core_history.part-0008.csv",
+          "bytes": 510309,
+          "sha256": "50f1ace5cd570f1751001a8ea05280127acff9954f5c96f263dc6b8b87445643"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0212/core_history.part-0009.csv",
+          "bytes": 511363,
+          "sha256": "c76dc0848d8f57f7c3accf6f79db8de5707d072c002e89efb203c4e793a8ba8a"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0212/core_history.part-0010.csv",
+          "bytes": 510502,
+          "sha256": "47a47c57cc432a03235fef4982b084e3ba0964304e7ade5dc8dce21862cbe30b"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/core_history/U0212/core_history.part-0011.csv",
+          "bytes": 66928,
+          "sha256": "3d9ce78fc4bb9bc5f6d4fd01390d03ddd6607b62dfcd7bfeaecd9022fce6a549"
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "case": "U010",
+      "segment": "s1",
+      "table": "anchor_stats",
+      "rows": 3000,
+      "columns": [
+        "t",
+        "i",
+        "dt",
+        "cells",
+        "lower_center",
+        "upper_center",
+        "lower_u",
+        "upper_u",
+        "closing_speed",
+        "moment_gap",
+        "plic_gap",
+        "plic_valid",
+        "lower_samples",
+        "upper_samples",
+        "anchor_active",
+        "released_this_step",
+        "anchor_acceleration",
+        "anchor_feedforward",
+        "effective_mass",
+        "support_volume",
+        "buoyancy_force",
+        "reaction_force",
+        "reaction_power",
+        "constraint_work",
+        "release_time",
+        "release_gap",
+        "saturation_count",
+        "lower_gas_drift",
+        "lower_oil_drift",
+        "upper_gas_drift",
+        "upper_oil_drift",
+        "nesting_volume",
+        "envelope_overlap_volume",
+        "gas_overlap_volume",
+        "overfill_volume",
+        "maximum_speed",
+        "umax_x",
+        "umax_y",
+        "umax_water_fraction",
+        "umax_oil_fraction",
+        "umax_gas_fraction",
+        "lower_outer_interface_velocity_rms",
+        "lower_outer_interface_velocity_max",
+        "lower_gas_interface_velocity_rms",
+        "lower_gas_interface_velocity_max",
+        "upper_outer_interface_velocity_rms",
+        "upper_outer_interface_velocity_max",
+        "upper_gas_interface_velocity_rms",
+        "upper_gas_interface_velocity_max",
+        "projected_volume_change",
+        "pressure_iterations",
+        "scaled_pressure_residual",
+        "viscosity_iterations",
+        "viscosity_residual",
+        "momentum_transport_mode",
+        "invalid_cells",
+        "invalid_faces",
+        "transport_failed",
+        "max_cell_partition_defect",
+        "max_face_partition_defect",
+        "max_vof_bound_defect",
+        "max_partition_correction",
+        "nested_plic_fallbacks",
+        "nested_plic_fallbacks_max",
+        "transport_cpu_seconds",
+        "lower_aspect",
+        "upper_aspect",
+        "kinetic_energy",
+        "surface_energy",
+        "pressure_integral",
+        "film_mean_pressure",
+        "film_max_pressure",
+        "film_support_volume",
+        "lower_contact_delta",
+        "upper_contact_delta",
+        "film_cells",
+        "film_distribution_valid_bins",
+        "film_distribution_total_bins",
+        "film_valid_area_fraction",
+        "film_nonpositive_gap_bins",
+        "film_min_gap",
+        "film_min_cells",
+        "film_p10_cells",
+        "film_median_cells",
+        "film_resolved_area_fraction"
+      ],
+      "source_path": "oilcoat_collision_f_r_fca689f_20260905/results/F-R-U010-L12-1bbb8f28d605c564a55e056b508a993849bee0849f849b837135ccba48a5bb2e/attempt-20260905T120802Z-film-on/data/anchor_stats.dat",
+      "source_sha256": "482d2775e7317dc8e4473449f7729a852ab41af282c719e0ff1d87a15d2edb36",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U010/s1/anchor_stats/anchor_stats.part-0001.csv",
+          "bytes": 511755,
+          "sha256": "b0c1c3f130df233f2e59f86f0f796f53cdc2cb40e82861b09df5fad4115470ac"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U010/s1/anchor_stats/anchor_stats.part-0002.csv",
+          "bytes": 510821,
+          "sha256": "a4058cb1cf6f83525596eda8e52e29691d9c9555529d0818c300292901884a7d"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U010/s1/anchor_stats/anchor_stats.part-0003.csv",
+          "bytes": 511721,
+          "sha256": "b76fe0478b1eb59597dbeffce6061486a93c0a0a216b8a03548e713793bdd46c"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U010/s1/anchor_stats/anchor_stats.part-0004.csv",
+          "bytes": 510900,
+          "sha256": "ea3e9f60e8056722f17fe2a840331dac7a8540adea6aac7fccdd4cdbb832549a"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U010/s1/anchor_stats/anchor_stats.part-0005.csv",
+          "bytes": 511135,
+          "sha256": "d53722a1753e5ead8d76c638bfac91eea861e0735ee4aa083dd87f4f69dc8246"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U010/s1/anchor_stats/anchor_stats.part-0006.csv",
+          "bytes": 510962,
+          "sha256": "d90a600409802043f802e1d81daed2a667fd5f47651a68ebf54c30bbd86a5aa5"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U010/s1/anchor_stats/anchor_stats.part-0007.csv",
+          "bytes": 511138,
+          "sha256": "180cec991326b20d158adae23a566adbae2dc70b38c9115636fd02f067a84893"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U010/s1/anchor_stats/anchor_stats.part-0008.csv",
+          "bytes": 36953,
+          "sha256": "982e8c041c6e7928be7f77fb585a6f7d7765f4824c8a69fe06ed9ef6d4a20f8c"
+        }
+      ]
+    },
+    {
+      "case": "U010",
+      "segment": "s1",
+      "table": "contact_amr_stats",
+      "rows": 3000,
+      "columns": [
+        "t",
+        "i",
+        "active",
+        "forced_cells",
+        "lower_top",
+        "upper_bottom",
+        "gap",
+        "finest_delta"
+      ],
+      "source_path": "oilcoat_collision_f_r_fca689f_20260905/results/F-R-U010-L12-1bbb8f28d605c564a55e056b508a993849bee0849f849b837135ccba48a5bb2e/attempt-20260905T120802Z-film-on/data/contact_amr_stats.dat",
+      "source_sha256": "2fc3bd0bad080f1c754c21888f0547418e2188a7ad3e1d91d240390b2ef41c0c",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U010/s1/contact_amr_stats/contact_amr_stats.part-0001.csv",
+          "bytes": 371212,
+          "sha256": "43d4830738557cc1078ea8cfafbac9803af19a33a168449bb16534aa740e8fb2"
+        }
+      ]
+    },
+    {
+      "case": "U010",
+      "segment": "s1",
+      "table": "film_state_primitive",
+      "rows": 9600,
+      "columns": [
+        "t",
+        "i",
+        "bin",
+        "active",
+        "activation_count",
+        "update_count",
+        "reacquisition_count",
+        "unresolved_count",
+        "raw_crossing_count",
+        "source_time",
+        "handoff_inventory",
+        "inventory",
+        "cumulative_edge_outflow",
+        "cumulative_work",
+        "thickness",
+        "midpoint",
+        "radius",
+        "width",
+        "delta",
+        "face_flux_inner",
+        "face_flux_outer"
+      ],
+      "source_path": "oilcoat_collision_f_r_fca689f_20260905/results/F-R-U010-L12-1bbb8f28d605c564a55e056b508a993849bee0849f849b837135ccba48a5bb2e/attempt-20260905T120802Z-film-on/data/film_state_primitive.dat",
+      "source_sha256": "50e4fa5c1cf6d76072b664d0cf9edb29f7086e4c2a31d2d5ceaffdfd548be863",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U010/s1/film_state_primitive/film_state_primitive.part-0001.csv",
+          "bytes": 511864,
+          "sha256": "107e3acfe0e508416d8976521bc50bb42432b0bdcb79256096a29f16297841b4"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U010/s1/film_state_primitive/film_state_primitive.part-0002.csv",
+          "bytes": 511873,
+          "sha256": "aaf8f463a1bd110b689340d56ded6586739cd77b63b75f571839ca2625e5c322"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U010/s1/film_state_primitive/film_state_primitive.part-0003.csv",
+          "bytes": 511993,
+          "sha256": "0650076e1809b4f0639a39ac9e5c9900109f19f79724851500dcbee1b4f40cd7"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U010/s1/film_state_primitive/film_state_primitive.part-0004.csv",
+          "bytes": 511974,
+          "sha256": "d9f3d0273af6117aee2c00d2907c824b7d6a3d2d8f643032f18e02af3c7a5710"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U010/s1/film_state_primitive/film_state_primitive.part-0005.csv",
+          "bytes": 374781,
+          "sha256": "dead5fcb0246397bb711be85d229af14483e200722584dcb6660a99bbd65ac25"
+        }
+      ]
+    },
+    {
+      "case": "U010",
+      "segment": "s1",
+      "table": "film_state_stats",
+      "rows": 3000,
+      "columns": [
+        "t",
+        "i",
+        "dt",
+        "state_status",
+        "state_valid",
+        "active",
+        "handed_off",
+        "reacquired",
+        "activation_count",
+        "update_count",
+        "handoff_time",
+        "handoff_raw_valid_area",
+        "handoff_raw_crossed_bins",
+        "handoff_corridor_at_maxlevel",
+        "observation_status",
+        "observation_valid",
+        "virtual_kinematics",
+        "raw_available",
+        "raw_valid_area",
+        "raw_crossed",
+        "raw_unresolved",
+        "min_state_gap",
+        "min_raw_gap",
+        "max_state_raw_gap_discrepancy",
+        "film_dt_limit",
+        "inventory_before",
+        "inventory_after",
+        "expected_inventory_after",
+        "inventory_residual",
+        "edge_flux",
+        "reynolds_flux_residual",
+        "reynolds_continuity_residual",
+        "reynolds_pressure_residual",
+        "traction_valid",
+        "traction_active",
+        "traction_applied",
+        "requested_lower_force",
+        "requested_upper_force",
+        "requested_net_force",
+        "actual_lower_force",
+        "actual_upper_force",
+        "actual_net_force",
+        "lower_force_residual",
+        "upper_force_residual",
+        "net_force_residual",
+        "force_audit_tolerance",
+        "application_roundoff_faces",
+        "swamped_increment_faces",
+        "maximum_application_error",
+        "application_force_error_l1",
+        "missing_lower_support_bins",
+        "missing_upper_support_bins",
+        "identity_audit_failed",
+        "force_audit_failed",
+        "force_audit_nonfinite",
+        "actual_net_moment",
+        "moment_audit_tolerance",
+        "radial_first_moment_imbalance",
+        "radial_first_moment_tolerance",
+        "max_bin_force_imbalance",
+        "step_work",
+        "cumulative_work",
+        "positive_film_work",
+        "contact_corridor_at_maxlevel",
+        "restart_restored",
+        "restart_state_time",
+        "restart_continuity_error"
+      ],
+      "source_path": "oilcoat_collision_f_r_fca689f_20260905/results/F-R-U010-L12-1bbb8f28d605c564a55e056b508a993849bee0849f849b837135ccba48a5bb2e/attempt-20260905T120802Z-film-on/data/film_state_stats.dat",
+      "source_sha256": "227245265249183e2e933bb0eb4e924f42fa3c7c5f216d96a438d74460477f8b",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U010/s1/film_state_stats/film_state_stats.part-0001.csv",
+          "bytes": 511444,
+          "sha256": "3b9da324524df2eb8aec587b416c6bcaacff25303455baf8761d6ee2a01bf293"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U010/s1/film_state_stats/film_state_stats.part-0002.csv",
+          "bytes": 511517,
+          "sha256": "154efe6a39d96ea8207532a0615d895fe4678b200e8d9746d8450b7ac24ad959"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U010/s1/film_state_stats/film_state_stats.part-0003.csv",
+          "bytes": 441449,
+          "sha256": "691ac590ce474a614b9b217e47e4b934e1455cb3958dce1dd1dc6cc40b2a7299"
+        }
+      ]
+    },
+    {
+      "case": "U010",
+      "segment": "s1",
+      "table": "initialization_audit",
+      "rows": 1,
+      "columns": [
+        "profile_mode",
+        "requested_gap",
+        "plic_gap",
+        "plic_valid",
+        "lower_center",
+        "upper_center",
+        "lower_u",
+        "upper_u",
+        "envelope_overlap",
+        "gas_overlap",
+        "nesting",
+        "overfill"
+      ],
+      "source_path": "oilcoat_collision_f_r_fca689f_20260905/results/F-R-U010-L12-1bbb8f28d605c564a55e056b508a993849bee0849f849b837135ccba48a5bb2e/attempt-20260905T120802Z-film-on/data/initialization_audit.dat",
+      "source_sha256": "bd46c73223f454ff2673013710c1d01f08e03b03e2c3ccec0160600f142ab24b",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U010/s1/initialization_audit/initialization_audit.part-0001.csv",
+          "bytes": 321,
+          "sha256": "5599a01a884459c3d53faf08819b7959e711dce6c7a5f85f00ae2d7caab9dab9"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "anchor_stats",
+      "rows": 418,
+      "columns": [
+        "t",
+        "i",
+        "dt",
+        "cells",
+        "lower_center",
+        "upper_center",
+        "lower_u",
+        "upper_u",
+        "closing_speed",
+        "moment_gap",
+        "plic_gap",
+        "plic_valid",
+        "lower_samples",
+        "upper_samples",
+        "anchor_active",
+        "released_this_step",
+        "anchor_acceleration",
+        "anchor_feedforward",
+        "effective_mass",
+        "support_volume",
+        "buoyancy_force",
+        "reaction_force",
+        "reaction_power",
+        "constraint_work",
+        "release_time",
+        "release_gap",
+        "saturation_count",
+        "lower_gas_drift",
+        "lower_oil_drift",
+        "upper_gas_drift",
+        "upper_oil_drift",
+        "nesting_volume",
+        "envelope_overlap_volume",
+        "gas_overlap_volume",
+        "overfill_volume",
+        "maximum_speed",
+        "umax_x",
+        "umax_y",
+        "umax_water_fraction",
+        "umax_oil_fraction",
+        "umax_gas_fraction",
+        "lower_outer_interface_velocity_rms",
+        "lower_outer_interface_velocity_max",
+        "lower_gas_interface_velocity_rms",
+        "lower_gas_interface_velocity_max",
+        "upper_outer_interface_velocity_rms",
+        "upper_outer_interface_velocity_max",
+        "upper_gas_interface_velocity_rms",
+        "upper_gas_interface_velocity_max",
+        "projected_volume_change",
+        "pressure_iterations",
+        "scaled_pressure_residual",
+        "viscosity_iterations",
+        "viscosity_residual",
+        "momentum_transport_mode",
+        "invalid_cells",
+        "invalid_faces",
+        "transport_failed",
+        "max_cell_partition_defect",
+        "max_face_partition_defect",
+        "max_vof_bound_defect",
+        "max_partition_correction",
+        "nested_plic_fallbacks",
+        "nested_plic_fallbacks_max",
+        "transport_cpu_seconds",
+        "lower_aspect",
+        "upper_aspect",
+        "kinetic_energy",
+        "surface_energy",
+        "pressure_integral",
+        "film_mean_pressure",
+        "film_max_pressure",
+        "film_support_volume",
+        "lower_contact_delta",
+        "upper_contact_delta",
+        "film_cells",
+        "film_distribution_valid_bins",
+        "film_distribution_total_bins",
+        "film_valid_area_fraction",
+        "film_nonpositive_gap_bins",
+        "film_min_gap",
+        "film_min_cells",
+        "film_p10_cells",
+        "film_median_cells",
+        "film_resolved_area_fraction"
+      ],
+      "source_path": "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100/data/anchor_stats.dat",
+      "source_sha256": "df487ba79e818eaf8ea87fb831e57df16d17c2f70868f24a9ef46d680262a6c7",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s2/anchor_stats/anchor_stats.part-0001.csv",
+          "bytes": 496264,
+          "sha256": "a3c4f9664af6cc78b4f528326ac5889b7094f15c7407a0dfe26f8f16090ba3b3"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "contact_amr_stats",
+      "rows": 418,
+      "columns": [
+        "t",
+        "i",
+        "active",
+        "forced_cells",
+        "lower_top",
+        "upper_bottom",
+        "gap",
+        "finest_delta"
+      ],
+      "source_path": "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100/data/contact_amr_stats.dat",
+      "source_sha256": "d2818da9ae2c0d214a2861b76805b307269a0f9081b8c55244d16d5d6a340410",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s2/contact_amr_stats/contact_amr_stats.part-0001.csv",
+          "bytes": 51653,
+          "sha256": "5dbe7366d656793bec3ee30fa8fd13df02e385ec93239eabfedc1ddde0a67a96"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_primitive",
+      "rows": 1344,
+      "columns": [
+        "t",
+        "i",
+        "bin",
+        "active",
+        "activation_count",
+        "update_count",
+        "reacquisition_count",
+        "unresolved_count",
+        "raw_crossing_count",
+        "source_time",
+        "handoff_inventory",
+        "inventory",
+        "cumulative_edge_outflow",
+        "cumulative_work",
+        "thickness",
+        "midpoint",
+        "radius",
+        "width",
+        "delta",
+        "face_flux_inner",
+        "face_flux_outer"
+      ],
+      "source_path": "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100/data/film_state_primitive.dat",
+      "source_sha256": "62775693591e704b3b585eaf5c85099cef5b84189b31d3f7d53531401590ef99",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s2/film_state_primitive/film_state_primitive.part-0001.csv",
+          "bytes": 420992,
+          "sha256": "8b15c513d4c02f211456784f3196f2bf5aa83a9574a54b9caef03d31d2f83847"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00000",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100/data/film_state_reject_rank00000.dat",
+      "source_sha256": "ef89822cc1fe6272b2a6dd4512513e8bf0a152f4e9f643b1f7f6bfc9af791c40",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s2/film_state_reject_rank00000/film_state_reject_rank00000.part-0001.csv",
+          "bytes": 13574,
+          "sha256": "fa3fa4c6ce2ecab0bbf22ed463a97c80ff143d9496e3a2bcfa15a43a9c60c68d"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00001",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100/data/film_state_reject_rank00001.dat",
+      "source_sha256": "547e263338bdfa7e897fe6c38499de144a75fea95d5f03e92eb84b807cb331a1",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s2/film_state_reject_rank00001/film_state_reject_rank00001.part-0001.csv",
+          "bytes": 13574,
+          "sha256": "0e95e98dedeb2af29a4efeff4d5fbcc33ae466d0ac20aeb69a9b015630e71835"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00002",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100/data/film_state_reject_rank00002.dat",
+      "source_sha256": "712a1f73d130bd9ce850b266dea92abb7ef82c12114fcb8664128b43b8612bfe",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s2/film_state_reject_rank00002/film_state_reject_rank00002.part-0001.csv",
+          "bytes": 13574,
+          "sha256": "3045d0dcd37dafa17fcab0b71589c93e570ef097f17819d9859bf10f3607e71f"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00003",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100/data/film_state_reject_rank00003.dat",
+      "source_sha256": "6918b72d65d530a56d573710f02051b2e49518af3a42652da4d2159dc4632bd1",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s2/film_state_reject_rank00003/film_state_reject_rank00003.part-0001.csv",
+          "bytes": 13574,
+          "sha256": "ecc87efbe0f1f16161035c828f62c97d3b904c5f50bb902175825b1d9005a8b7"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00004",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100/data/film_state_reject_rank00004.dat",
+      "source_sha256": "6265e9eacef3333e6da49aa45ffe51e31c101cf31536205ecdb26ea584c71127",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s2/film_state_reject_rank00004/film_state_reject_rank00004.part-0001.csv",
+          "bytes": 13574,
+          "sha256": "2e8d2104db5b0709e75047bff059f8e3882b5debebff6aa6c3c8e32e4a43a003"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00005",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100/data/film_state_reject_rank00005.dat",
+      "source_sha256": "87048ef01d9715c03a0ccf1473acc097b114d835ef9510b862f3a6c8f825555e",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s2/film_state_reject_rank00005/film_state_reject_rank00005.part-0001.csv",
+          "bytes": 13574,
+          "sha256": "6075d3307e44841e958bf006ece1445c04932a14d1727af88ab1b931a1958246"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00006",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100/data/film_state_reject_rank00006.dat",
+      "source_sha256": "8d76904f99b65b1a88c6b5c1e717ef601ee278a906218f707c7b9ab8cad2eb03",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s2/film_state_reject_rank00006/film_state_reject_rank00006.part-0001.csv",
+          "bytes": 13574,
+          "sha256": "20fed1edf91a268b20a7679871a76514d0acd35a0f426f0ab206929e5a3e501c"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00007",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100/data/film_state_reject_rank00007.dat",
+      "source_sha256": "b081bcb19c0912853bcdb19b5e03ad7fd828b01de9b0764e8733bfcabf123294",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s2/film_state_reject_rank00007/film_state_reject_rank00007.part-0001.csv",
+          "bytes": 13574,
+          "sha256": "6f9f1c945b13732d5391108fc6a70dccfe8413621069318bff5885f7277b4cdc"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00008",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100/data/film_state_reject_rank00008.dat",
+      "source_sha256": "1c8a094565790566d36918a429d996c3e5813dd32eabb4b4503b8420bb49d424",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s2/film_state_reject_rank00008/film_state_reject_rank00008.part-0001.csv",
+          "bytes": 13574,
+          "sha256": "b35230f9e8eeeed94648a4f4efa58eed84b50d28ffd9716b08c3b83888129892"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00009",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100/data/film_state_reject_rank00009.dat",
+      "source_sha256": "a7ea94fef0d7206bb94272df7f32a46cacbe407832c58c9e479f7b1acc7192e3",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s2/film_state_reject_rank00009/film_state_reject_rank00009.part-0001.csv",
+          "bytes": 13574,
+          "sha256": "95ffab4f5533d8bdae6c2a22e2ceaf9c1a49d981214326f65cee745ac0b2910d"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00010",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100/data/film_state_reject_rank00010.dat",
+      "source_sha256": "ea25e7b9ce4e1008304c6c642f9ba4267e315a686eaecdce32c52921c432b22e",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s2/film_state_reject_rank00010/film_state_reject_rank00010.part-0001.csv",
+          "bytes": 13606,
+          "sha256": "e8e2a291ff6a806ddd52715f2af24b799de4dfacd73bf885c8638a3cba975ba7"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00011",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100/data/film_state_reject_rank00011.dat",
+      "source_sha256": "432310f3a3742056736037126850ff5fd7b2d68fc0603cfbb4fc4fddad1458a6",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s2/film_state_reject_rank00011/film_state_reject_rank00011.part-0001.csv",
+          "bytes": 13606,
+          "sha256": "1eab427b12ba5b701006bf203cbfbb67deb000b99d14ac8970ceff62a63b8305"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00012",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100/data/film_state_reject_rank00012.dat",
+      "source_sha256": "51d0f9106458532f27a8ca84de9a0dfa05584530a29b5de10eefeab46546fe6b",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s2/film_state_reject_rank00012/film_state_reject_rank00012.part-0001.csv",
+          "bytes": 13606,
+          "sha256": "33e1977dc3293d29a35bb392666ca5fe6f342b3724ec68ef66160a47f0ce54bc"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00013",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100/data/film_state_reject_rank00013.dat",
+      "source_sha256": "b4096b15a1a74259f9f85f8be2e7d42a0a2d43d32173874bf40f00366d56306f",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s2/film_state_reject_rank00013/film_state_reject_rank00013.part-0001.csv",
+          "bytes": 13606,
+          "sha256": "a38eb15fe6cee46d1ad427379c70797b2ba6f3d3dc800d8a967323ffea11c98b"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00014",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100/data/film_state_reject_rank00014.dat",
+      "source_sha256": "0ec4b8dc3be6e861c25ee0c673f48490125a9c844a9b184823fcf83c6cbf5199",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s2/film_state_reject_rank00014/film_state_reject_rank00014.part-0001.csv",
+          "bytes": 13606,
+          "sha256": "d11a214b4e80030c724f58ad118d5f23ff81e3d057a60719664f1fa85abf57c6"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_reject_rank00015",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100/data/film_state_reject_rank00015.dat",
+      "source_sha256": "ed9984b729168c3e6218ffe0b8f2e2b779e751c1075372911cf1409c6e8a5216",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s2/film_state_reject_rank00015/film_state_reject_rank00015.part-0001.csv",
+          "bytes": 13606,
+          "sha256": "e8317ca6b5406d2b296d41e14f62eac247fdbfe50cd0eebe37764d7a5c4f1979"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "film_state_stats",
+      "rows": 418,
+      "columns": [
+        "t",
+        "i",
+        "dt",
+        "state_status",
+        "state_valid",
+        "active",
+        "handed_off",
+        "reacquired",
+        "activation_count",
+        "update_count",
+        "handoff_time",
+        "handoff_raw_valid_area",
+        "handoff_raw_crossed_bins",
+        "handoff_corridor_at_maxlevel",
+        "observation_status",
+        "observation_valid",
+        "virtual_kinematics",
+        "raw_available",
+        "raw_valid_area",
+        "raw_crossed",
+        "raw_unresolved",
+        "min_state_gap",
+        "min_raw_gap",
+        "max_state_raw_gap_discrepancy",
+        "film_dt_limit",
+        "inventory_before",
+        "inventory_after",
+        "expected_inventory_after",
+        "inventory_residual",
+        "edge_flux",
+        "reynolds_flux_residual",
+        "reynolds_continuity_residual",
+        "reynolds_pressure_residual",
+        "traction_valid",
+        "traction_active",
+        "traction_applied",
+        "requested_lower_force",
+        "requested_upper_force",
+        "requested_net_force",
+        "actual_lower_force",
+        "actual_upper_force",
+        "actual_net_force",
+        "lower_force_residual",
+        "upper_force_residual",
+        "net_force_residual",
+        "force_audit_tolerance",
+        "application_roundoff_faces",
+        "swamped_increment_faces",
+        "maximum_application_error",
+        "application_force_error_l1",
+        "missing_lower_support_bins",
+        "missing_upper_support_bins",
+        "identity_audit_failed",
+        "force_audit_failed",
+        "force_audit_nonfinite",
+        "actual_net_moment",
+        "moment_audit_tolerance",
+        "radial_first_moment_imbalance",
+        "radial_first_moment_tolerance",
+        "max_bin_force_imbalance",
+        "step_work",
+        "cumulative_work",
+        "positive_film_work",
+        "contact_corridor_at_maxlevel",
+        "restart_restored",
+        "restart_state_time",
+        "restart_continuity_error"
+      ],
+      "source_path": "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100/data/film_state_stats.dat",
+      "source_sha256": "b2a24327ed3f72ec0eca2c8e992980a34660822d0abe81d27a53cb32af813fc1",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s2/film_state_stats/film_state_stats.part-0001.csv",
+          "bytes": 228485,
+          "sha256": "091eda77b447e43033374861ba037d67b517a28b30078efd2e68a377a5016d36"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s2",
+      "table": "initialization_audit",
+      "rows": 1,
+      "columns": [
+        "profile_mode",
+        "requested_gap",
+        "plic_gap",
+        "plic_valid",
+        "lower_center",
+        "upper_center",
+        "lower_u",
+        "upper_u",
+        "envelope_overlap",
+        "gas_overlap",
+        "nesting",
+        "overfill"
+      ],
+      "source_path": "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100/data/initialization_audit.dat",
+      "source_sha256": "0e39f543106f3776ebd83398fe47868eaa94eb6a213f09a8f0f904c5e321f3ca",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s2/initialization_audit/initialization_audit.part-0001.csv",
+          "bytes": 383,
+          "sha256": "33c64edbf4d45e886404e2216021441675c6fe0c31eb9f77fdc8215bf599845d"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s3",
+      "table": "anchor_stats",
+      "rows": 981,
+      "columns": [
+        "t",
+        "i",
+        "dt",
+        "cells",
+        "lower_center",
+        "upper_center",
+        "lower_u",
+        "upper_u",
+        "closing_speed",
+        "moment_gap",
+        "plic_gap",
+        "plic_valid",
+        "lower_samples",
+        "upper_samples",
+        "anchor_active",
+        "released_this_step",
+        "anchor_acceleration",
+        "anchor_feedforward",
+        "effective_mass",
+        "support_volume",
+        "buoyancy_force",
+        "reaction_force",
+        "reaction_power",
+        "constraint_work",
+        "release_time",
+        "release_gap",
+        "saturation_count",
+        "lower_gas_drift",
+        "lower_oil_drift",
+        "upper_gas_drift",
+        "upper_oil_drift",
+        "nesting_volume",
+        "envelope_overlap_volume",
+        "gas_overlap_volume",
+        "overfill_volume",
+        "maximum_speed",
+        "umax_x",
+        "umax_y",
+        "umax_water_fraction",
+        "umax_oil_fraction",
+        "umax_gas_fraction",
+        "lower_outer_interface_velocity_rms",
+        "lower_outer_interface_velocity_max",
+        "lower_gas_interface_velocity_rms",
+        "lower_gas_interface_velocity_max",
+        "upper_outer_interface_velocity_rms",
+        "upper_outer_interface_velocity_max",
+        "upper_gas_interface_velocity_rms",
+        "upper_gas_interface_velocity_max",
+        "projected_volume_change",
+        "pressure_iterations",
+        "scaled_pressure_residual",
+        "viscosity_iterations",
+        "viscosity_residual",
+        "momentum_transport_mode",
+        "invalid_cells",
+        "invalid_faces",
+        "transport_failed",
+        "max_cell_partition_defect",
+        "max_face_partition_defect",
+        "max_vof_bound_defect",
+        "max_partition_correction",
+        "nested_plic_fallbacks",
+        "nested_plic_fallbacks_max",
+        "transport_cpu_seconds",
+        "lower_aspect",
+        "upper_aspect",
+        "kinetic_energy",
+        "surface_energy",
+        "pressure_integral",
+        "film_mean_pressure",
+        "film_max_pressure",
+        "film_support_volume",
+        "lower_contact_delta",
+        "upper_contact_delta",
+        "film_cells",
+        "film_distribution_valid_bins",
+        "film_distribution_total_bins",
+        "film_valid_area_fraction",
+        "film_nonpositive_gap_bins",
+        "film_min_gap",
+        "film_min_cells",
+        "film_p10_cells",
+        "film_median_cells",
+        "film_resolved_area_fraction"
+      ],
+      "source_path": "oilcoat_collision_f_r_4798773_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-4798773-from-020200/data/anchor_stats.dat",
+      "source_sha256": "2ff0b1a435d9a4fecab51679c2bbc5910b13ac27f5ef30734cbdd762fa5924bf",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s3/anchor_stats/anchor_stats.part-0001.csv",
+          "bytes": 511916,
+          "sha256": "c024cdc251497b6d67f39e991a62390644b59e3a73f5401f90e0784eb5540a1a"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s3/anchor_stats/anchor_stats.part-0002.csv",
+          "bytes": 511903,
+          "sha256": "537a8cebc62b4b5bf5fcf466005250d985afdb204043ca007f8c0bfb911efb8d"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s3/anchor_stats/anchor_stats.part-0003.csv",
+          "bytes": 178051,
+          "sha256": "00768d15166c7e64031fd57578408e574a33848afdd9dcc176b8d423348f5ba3"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s3",
+      "table": "contact_amr_stats",
+      "rows": 981,
+      "columns": [
+        "t",
+        "i",
+        "active",
+        "forced_cells",
+        "lower_top",
+        "upper_bottom",
+        "gap",
+        "finest_delta"
+      ],
+      "source_path": "oilcoat_collision_f_r_4798773_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-4798773-from-020200/data/contact_amr_stats.dat",
+      "source_sha256": "ad3e5c8dbb059d588ab0975441d187f74bf1131826a337d4044ddcbfee1dee64",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s3/contact_amr_stats/contact_amr_stats.part-0001.csv",
+          "bytes": 122344,
+          "sha256": "08986024d9a176aff3fadc068be2e0659de078b26885456c0265ac64c2370724"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s3",
+      "table": "film_state_primitive",
+      "rows": 3168,
+      "columns": [
+        "t",
+        "i",
+        "bin",
+        "active",
+        "activation_count",
+        "update_count",
+        "reacquisition_count",
+        "unresolved_count",
+        "raw_crossing_count",
+        "source_time",
+        "handoff_inventory",
+        "inventory",
+        "cumulative_edge_outflow",
+        "cumulative_work",
+        "thickness",
+        "midpoint",
+        "radius",
+        "width",
+        "delta",
+        "face_flux_inner",
+        "face_flux_outer"
+      ],
+      "source_path": "oilcoat_collision_f_r_4798773_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-4798773-from-020200/data/film_state_primitive.dat",
+      "source_sha256": "39adbeeae2f2a53aa81dc2305aa05eb9295739af7f9d844cb6a1baa51156753e",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s3/film_state_primitive/film_state_primitive.part-0001.csv",
+          "bytes": 511683,
+          "sha256": "ea2a62cf0f99077e2ed1fa3f88753a20e24c2c40e5713bd559849a57d8b948d0"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s3/film_state_primitive/film_state_primitive.part-0002.csv",
+          "bytes": 486332,
+          "sha256": "6be1bad83cd9789c6ce80c6b26950b4aa789e4bcbb56e70f9293f54fe6708c10"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s3",
+      "table": "film_state_stats",
+      "rows": 981,
+      "columns": [
+        "t",
+        "i",
+        "dt",
+        "state_status",
+        "state_valid",
+        "active",
+        "handed_off",
+        "reacquired",
+        "activation_count",
+        "update_count",
+        "handoff_time",
+        "handoff_raw_valid_area",
+        "handoff_raw_crossed_bins",
+        "handoff_corridor_at_maxlevel",
+        "observation_status",
+        "observation_valid",
+        "virtual_kinematics",
+        "raw_available",
+        "raw_valid_area",
+        "raw_crossed",
+        "raw_unresolved",
+        "min_state_gap",
+        "min_raw_gap",
+        "max_state_raw_gap_discrepancy",
+        "film_dt_limit",
+        "inventory_before",
+        "inventory_after",
+        "expected_inventory_after",
+        "inventory_residual",
+        "edge_flux",
+        "reynolds_flux_residual",
+        "reynolds_continuity_residual",
+        "reynolds_pressure_residual",
+        "traction_valid",
+        "traction_active",
+        "traction_applied",
+        "requested_lower_force",
+        "requested_upper_force",
+        "requested_net_force",
+        "actual_lower_force",
+        "actual_upper_force",
+        "actual_net_force",
+        "lower_force_residual",
+        "upper_force_residual",
+        "net_force_residual",
+        "force_audit_tolerance",
+        "application_roundoff_faces",
+        "swamped_increment_faces",
+        "maximum_application_error",
+        "application_force_error_l1",
+        "missing_lower_support_bins",
+        "missing_upper_support_bins",
+        "identity_audit_failed",
+        "force_audit_failed",
+        "force_audit_nonfinite",
+        "actual_net_moment",
+        "moment_audit_tolerance",
+        "radial_first_moment_imbalance",
+        "radial_first_moment_tolerance",
+        "max_bin_force_imbalance",
+        "step_work",
+        "cumulative_work",
+        "positive_film_work",
+        "contact_corridor_at_maxlevel",
+        "restart_restored",
+        "restart_state_time",
+        "restart_continuity_error"
+      ],
+      "source_path": "oilcoat_collision_f_r_4798773_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-4798773-from-020200/data/film_state_stats.dat",
+      "source_sha256": "7f293497a44089e722f7d8e7bd366bccae136fee8f529414398e9055c94858fd",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s3/film_state_stats/film_state_stats.part-0001.csv",
+          "bytes": 511934,
+          "sha256": "d02df70b66b9cf5d84c1ce6bcbf2966355d7c35033fb908a9d880135d5913a9b"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s3/film_state_stats/film_state_stats.part-0002.csv",
+          "bytes": 50036,
+          "sha256": "586558d9903becc52b2f786ae0a14e25ef9a760118e18956249ebaa1ec30cea9"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s3",
+      "table": "initialization_audit",
+      "rows": 1,
+      "columns": [
+        "profile_mode",
+        "requested_gap",
+        "plic_gap",
+        "plic_valid",
+        "lower_center",
+        "upper_center",
+        "lower_u",
+        "upper_u",
+        "envelope_overlap",
+        "gas_overlap",
+        "nesting",
+        "overfill"
+      ],
+      "source_path": "oilcoat_collision_f_r_4798773_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-4798773-from-020200/data/initialization_audit.dat",
+      "source_sha256": "77f825b1254c85199c044bbec34c90cf5c0dcb26a9d4debbec60ee39dc1a8859",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s3/initialization_audit/initialization_audit.part-0001.csv",
+          "bytes": 339,
+          "sha256": "b497c6b0c20f3e0d03c4900444ec2968769090cd834f96186f948fe8d392e17c"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s1",
+      "table": "anchor_stats",
+      "rows": 1618,
+      "columns": [
+        "t",
+        "i",
+        "dt",
+        "cells",
+        "lower_center",
+        "upper_center",
+        "lower_u",
+        "upper_u",
+        "closing_speed",
+        "moment_gap",
+        "plic_gap",
+        "plic_valid",
+        "lower_samples",
+        "upper_samples",
+        "anchor_active",
+        "released_this_step",
+        "anchor_acceleration",
+        "anchor_feedforward",
+        "effective_mass",
+        "support_volume",
+        "buoyancy_force",
+        "reaction_force",
+        "reaction_power",
+        "constraint_work",
+        "release_time",
+        "release_gap",
+        "saturation_count",
+        "lower_gas_drift",
+        "lower_oil_drift",
+        "upper_gas_drift",
+        "upper_oil_drift",
+        "nesting_volume",
+        "envelope_overlap_volume",
+        "gas_overlap_volume",
+        "overfill_volume",
+        "maximum_speed",
+        "umax_x",
+        "umax_y",
+        "umax_water_fraction",
+        "umax_oil_fraction",
+        "umax_gas_fraction",
+        "lower_outer_interface_velocity_rms",
+        "lower_outer_interface_velocity_max",
+        "lower_gas_interface_velocity_rms",
+        "lower_gas_interface_velocity_max",
+        "upper_outer_interface_velocity_rms",
+        "upper_outer_interface_velocity_max",
+        "upper_gas_interface_velocity_rms",
+        "upper_gas_interface_velocity_max",
+        "projected_volume_change",
+        "pressure_iterations",
+        "scaled_pressure_residual",
+        "viscosity_iterations",
+        "viscosity_residual",
+        "momentum_transport_mode",
+        "invalid_cells",
+        "invalid_faces",
+        "transport_failed",
+        "max_cell_partition_defect",
+        "max_face_partition_defect",
+        "max_vof_bound_defect",
+        "max_partition_correction",
+        "nested_plic_fallbacks",
+        "nested_plic_fallbacks_max",
+        "transport_cpu_seconds",
+        "lower_aspect",
+        "upper_aspect",
+        "kinetic_energy",
+        "surface_energy",
+        "pressure_integral",
+        "film_mean_pressure",
+        "film_max_pressure",
+        "film_support_volume",
+        "lower_contact_delta",
+        "upper_contact_delta",
+        "film_cells",
+        "film_distribution_valid_bins",
+        "film_distribution_total_bins",
+        "film_valid_area_fraction",
+        "film_nonpositive_gap_bins",
+        "film_min_gap",
+        "film_min_cells",
+        "film_p10_cells",
+        "film_median_cells",
+        "film_resolved_area_fraction"
+      ],
+      "source_path": "oilcoat_collision_f_r_c702bbe_u0183_20260928/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260928T123551Z-film-on/data/anchor_stats.dat",
+      "source_sha256": "f21a156ff3d13b20ac34e5437f9f57fdfd9c18858dcfff9dccf6c1b90c3eecca",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s1/anchor_stats/anchor_stats.part-0001.csv",
+          "bytes": 511912,
+          "sha256": "352a884d5249d803e95e2240fcc615acf76d14d7653d30c29b7c41760f729629"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s1/anchor_stats/anchor_stats.part-0002.csv",
+          "bytes": 511947,
+          "sha256": "fdbe1fb09577b2609e4c806648ea5a224d29a538150fb448fb26a228cf2125e1"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s1/anchor_stats/anchor_stats.part-0003.csv",
+          "bytes": 511259,
+          "sha256": "edf54212184869c75871b9e9f4bebf0aad213494d4b850a820178a1aee107d6c"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s1/anchor_stats/anchor_stats.part-0004.csv",
+          "bytes": 437850,
+          "sha256": "ab3dd02cbca17decba9cbaa9219276d9fca67e5fe96d0aa3a78351c08e140f61"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s1",
+      "table": "contact_amr_stats",
+      "rows": 1618,
+      "columns": [
+        "t",
+        "i",
+        "active",
+        "forced_cells",
+        "lower_top",
+        "upper_bottom",
+        "gap",
+        "finest_delta"
+      ],
+      "source_path": "oilcoat_collision_f_r_c702bbe_u0183_20260928/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260928T123551Z-film-on/data/contact_amr_stats.dat",
+      "source_sha256": "f7a53382fbe09d3c131547064dd8d20caff9803cddcf9a7fd307bff0c9b06a58",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s1/contact_amr_stats/contact_amr_stats.part-0001.csv",
+          "bytes": 201331,
+          "sha256": "36ec895146237a1be2033f8aea30951d789603f8e0c67ddd4626b0751652692c"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s1",
+      "table": "film_state_primitive",
+      "rows": 5152,
+      "columns": [
+        "t",
+        "i",
+        "bin",
+        "active",
+        "activation_count",
+        "update_count",
+        "reacquisition_count",
+        "unresolved_count",
+        "raw_crossing_count",
+        "source_time",
+        "handoff_inventory",
+        "inventory",
+        "cumulative_edge_outflow",
+        "cumulative_work",
+        "thickness",
+        "midpoint",
+        "radius",
+        "width",
+        "delta",
+        "face_flux_inner",
+        "face_flux_outer"
+      ],
+      "source_path": "oilcoat_collision_f_r_c702bbe_u0183_20260928/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260928T123551Z-film-on/data/film_state_primitive.dat",
+      "source_sha256": "4b6c9258d66f2561f687af5f52e074a4426085335fc32c7cbc39a9a847fd67e4",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s1/film_state_primitive/film_state_primitive.part-0001.csv",
+          "bytes": 511988,
+          "sha256": "3f8d0a2f164280d48ee2cf515a6bdb4d1bbfaa108d135b9a9a54284e80fb884d"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s1/film_state_primitive/film_state_primitive.part-0002.csv",
+          "bytes": 511954,
+          "sha256": "881987d3263694ff8f5b519d8c8945a78c3ef059c4fb7690686d0ad188ddf478"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s1/film_state_primitive/film_state_primitive.part-0003.csv",
+          "bytes": 171809,
+          "sha256": "4d060f6b8a8424ecb8b43d9cd26686d23bad08df8c0b86c24e337e74e0f9529a"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s1",
+      "table": "film_state_stats",
+      "rows": 1618,
+      "columns": [
+        "t",
+        "i",
+        "dt",
+        "state_status",
+        "state_valid",
+        "active",
+        "handed_off",
+        "reacquired",
+        "activation_count",
+        "update_count",
+        "handoff_time",
+        "handoff_raw_valid_area",
+        "handoff_raw_crossed_bins",
+        "handoff_corridor_at_maxlevel",
+        "observation_status",
+        "observation_valid",
+        "virtual_kinematics",
+        "raw_available",
+        "raw_valid_area",
+        "raw_crossed",
+        "raw_unresolved",
+        "min_state_gap",
+        "min_raw_gap",
+        "max_state_raw_gap_discrepancy",
+        "film_dt_limit",
+        "inventory_before",
+        "inventory_after",
+        "expected_inventory_after",
+        "inventory_residual",
+        "edge_flux",
+        "reynolds_flux_residual",
+        "reynolds_continuity_residual",
+        "reynolds_pressure_residual",
+        "traction_valid",
+        "traction_active",
+        "traction_applied",
+        "requested_lower_force",
+        "requested_upper_force",
+        "requested_net_force",
+        "actual_lower_force",
+        "actual_upper_force",
+        "actual_net_force",
+        "lower_force_residual",
+        "upper_force_residual",
+        "net_force_residual",
+        "force_audit_tolerance",
+        "application_roundoff_faces",
+        "swamped_increment_faces",
+        "maximum_application_error",
+        "application_force_error_l1",
+        "missing_lower_support_bins",
+        "missing_upper_support_bins",
+        "identity_audit_failed",
+        "force_audit_failed",
+        "force_audit_nonfinite",
+        "actual_net_moment",
+        "moment_audit_tolerance",
+        "radial_first_moment_imbalance",
+        "radial_first_moment_tolerance",
+        "max_bin_force_imbalance",
+        "step_work",
+        "cumulative_work",
+        "positive_film_work",
+        "contact_corridor_at_maxlevel",
+        "restart_restored",
+        "restart_state_time",
+        "restart_continuity_error"
+      ],
+      "source_path": "oilcoat_collision_f_r_c702bbe_u0183_20260928/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260928T123551Z-film-on/data/film_state_stats.dat",
+      "source_sha256": "c263c7130411d492635a9dc0a4f42409a87a2fef2432623de2582b308757d0e2",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s1/film_state_stats/film_state_stats.part-0001.csv",
+          "bytes": 511591,
+          "sha256": "4fb0de258ce26182e111efd0e29ab8a8e5db5a50170f3c7a27952f2be5293a10"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s1/film_state_stats/film_state_stats.part-0002.csv",
+          "bytes": 240966,
+          "sha256": "3bdb2133afe6432976e51c07f3ed4be868b384d1b54ccfe05643f9d08a555202"
+        }
+      ]
+    },
+    {
+      "case": "U0183",
+      "segment": "s1",
+      "table": "initialization_audit",
+      "rows": 1,
+      "columns": [
+        "profile_mode",
+        "requested_gap",
+        "plic_gap",
+        "plic_valid",
+        "lower_center",
+        "upper_center",
+        "lower_u",
+        "upper_u",
+        "envelope_overlap",
+        "gas_overlap",
+        "nesting",
+        "overfill"
+      ],
+      "source_path": "oilcoat_collision_f_r_c702bbe_u0183_20260928/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260928T123551Z-film-on/data/initialization_audit.dat",
+      "source_sha256": "b1929272dcde30105396d013a1093aaf339c78badd1e11d1ba912f6840678884",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0183/s1/initialization_audit/initialization_audit.part-0001.csv",
+          "bytes": 320,
+          "sha256": "6c3feb3a2c6314930120231946cf8fa3adf7594eeb92dedfd774c45471018e8b"
+        }
+      ]
+    },
+    {
+      "case": "U0200",
+      "segment": "s1",
+      "table": "anchor_stats",
+      "rows": 3001,
+      "columns": [
+        "t",
+        "i",
+        "dt",
+        "cells",
+        "lower_center",
+        "upper_center",
+        "lower_u",
+        "upper_u",
+        "closing_speed",
+        "moment_gap",
+        "plic_gap",
+        "plic_valid",
+        "lower_samples",
+        "upper_samples",
+        "anchor_active",
+        "released_this_step",
+        "anchor_acceleration",
+        "anchor_feedforward",
+        "effective_mass",
+        "support_volume",
+        "buoyancy_force",
+        "reaction_force",
+        "reaction_power",
+        "constraint_work",
+        "release_time",
+        "release_gap",
+        "saturation_count",
+        "lower_gas_drift",
+        "lower_oil_drift",
+        "upper_gas_drift",
+        "upper_oil_drift",
+        "nesting_volume",
+        "envelope_overlap_volume",
+        "gas_overlap_volume",
+        "overfill_volume",
+        "maximum_speed",
+        "umax_x",
+        "umax_y",
+        "umax_water_fraction",
+        "umax_oil_fraction",
+        "umax_gas_fraction",
+        "lower_outer_interface_velocity_rms",
+        "lower_outer_interface_velocity_max",
+        "lower_gas_interface_velocity_rms",
+        "lower_gas_interface_velocity_max",
+        "upper_outer_interface_velocity_rms",
+        "upper_outer_interface_velocity_max",
+        "upper_gas_interface_velocity_rms",
+        "upper_gas_interface_velocity_max",
+        "projected_volume_change",
+        "pressure_iterations",
+        "scaled_pressure_residual",
+        "viscosity_iterations",
+        "viscosity_residual",
+        "momentum_transport_mode",
+        "invalid_cells",
+        "invalid_faces",
+        "transport_failed",
+        "max_cell_partition_defect",
+        "max_face_partition_defect",
+        "max_vof_bound_defect",
+        "max_partition_correction",
+        "nested_plic_fallbacks",
+        "nested_plic_fallbacks_max",
+        "transport_cpu_seconds",
+        "lower_aspect",
+        "upper_aspect",
+        "kinetic_energy",
+        "surface_energy",
+        "pressure_integral",
+        "film_mean_pressure",
+        "film_max_pressure",
+        "film_support_volume",
+        "lower_contact_delta",
+        "upper_contact_delta",
+        "film_cells",
+        "film_distribution_valid_bins",
+        "film_distribution_total_bins",
+        "film_valid_area_fraction",
+        "film_nonpositive_gap_bins",
+        "film_min_gap",
+        "film_min_cells",
+        "film_p10_cells",
+        "film_median_cells",
+        "film_resolved_area_fraction"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0200_20261001/results/F-R-C-U0200-L12-81b22adeba024ea1fdf5321dea2e23ccc47d99b2e6aec1641e278cf91d96478d/attempt-20261001T082139Z-film-on/data/anchor_stats.dat",
+      "source_sha256": "4c8150e8ee1e0ef801de915456b7d4cb5f9de939bcdfa2f1853db1990850d845",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0200/s1/anchor_stats/anchor_stats.part-0001.csv",
+          "bytes": 510790,
+          "sha256": "f6a67c8843251a6564fe09bf41440e7216cdfd6eac298a01dce4d6bdb85074b5"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0200/s1/anchor_stats/anchor_stats.part-0002.csv",
+          "bytes": 511349,
+          "sha256": "c7b789a558a340af44fb46ac8cfa79a16b2b707a7259d13afb4f6cb51603dabe"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0200/s1/anchor_stats/anchor_stats.part-0003.csv",
+          "bytes": 510897,
+          "sha256": "32528dccc998f4d409065469c6eddb8b63fc9e0154f27e3c92b720fb2ed8eb74"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0200/s1/anchor_stats/anchor_stats.part-0004.csv",
+          "bytes": 511822,
+          "sha256": "49d00f6d093ed3d5ec90687e806b36dfea8ab633e1a56f69b6281e013ead3c4c"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0200/s1/anchor_stats/anchor_stats.part-0005.csv",
+          "bytes": 511548,
+          "sha256": "17595b033e974cfe7d7c055cc322c88989555955a4fa38f3baef3a006bfc3d08"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0200/s1/anchor_stats/anchor_stats.part-0006.csv",
+          "bytes": 511585,
+          "sha256": "95cb0029aa3e5adade62e0615c38ed845a47dc69f64439d558e413ebe53c2151"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0200/s1/anchor_stats/anchor_stats.part-0007.csv",
+          "bytes": 511142,
+          "sha256": "bfd5c2f75d59db9a3c81d42c8ce30e9b0a61b510f64efda9acdb476aad6cba08"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0200/s1/anchor_stats/anchor_stats.part-0008.csv",
+          "bytes": 46149,
+          "sha256": "73297fd31b40776fdafe4698f9ffcf93c60a277ac2c70685c08ba2d3e894393c"
+        }
+      ]
+    },
+    {
+      "case": "U0200",
+      "segment": "s1",
+      "table": "coalescence_stats",
+      "rows": 3001,
+      "columns": [
+        "t",
+        "i",
+        "merged",
+        "trigger_time",
+        "trigger_h",
+        "hcrit",
+        "gas_components",
+        "envelope_components",
+        "gas_volume",
+        "oil_volume",
+        "gas_drift",
+        "oil_drift",
+        "seed_gas_error",
+        "seed_oil_error",
+        "seed_momentum_error",
+        "velocity_correction",
+        "seed_dke",
+        "seed_dse",
+        "gas_water_mixed_volume",
+        "gas_water_contact_max"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0200_20261001/results/F-R-C-U0200-L12-81b22adeba024ea1fdf5321dea2e23ccc47d99b2e6aec1641e278cf91d96478d/attempt-20261001T082139Z-film-on/data/coalescence_stats.dat",
+      "source_sha256": "9ae8d464696fd446e2275f01f0ac6f22fd53dee33697a7cd7b6bc4791b4c751c",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0200/s1/coalescence_stats/coalescence_stats.part-0001.csv",
+          "bytes": 511842,
+          "sha256": "113a0bb4e05baba2c0dc9553e130d98080730107607c6ac25f5e802ff831991a"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0200/s1/coalescence_stats/coalescence_stats.part-0002.csv",
+          "bytes": 161777,
+          "sha256": "6af19c6520ea7bcaf2b8217b6cf77437057cc791f3f27b1f53f4cb294474b68e"
+        }
+      ]
+    },
+    {
+      "case": "U0200",
+      "segment": "s1",
+      "table": "contact_amr_stats",
+      "rows": 3001,
+      "columns": [
+        "t",
+        "i",
+        "active",
+        "forced_cells",
+        "lower_top",
+        "upper_bottom",
+        "gap",
+        "finest_delta"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0200_20261001/results/F-R-C-U0200-L12-81b22adeba024ea1fdf5321dea2e23ccc47d99b2e6aec1641e278cf91d96478d/attempt-20261001T082139Z-film-on/data/contact_amr_stats.dat",
+      "source_sha256": "5e96ca31761e9aae3ab0b11524f1a61fefe26bdaad1d82b01a5f512bc29edc66",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0200/s1/contact_amr_stats/contact_amr_stats.part-0001.csv",
+          "bytes": 375197,
+          "sha256": "9cb4b0005702233b5c3fb44a8735117858b0efc20ccb16b3cb50f19ae66036b8"
+        }
+      ]
+    },
+    {
+      "case": "U0200",
+      "segment": "s1",
+      "table": "film_state_primitive",
+      "rows": 9632,
+      "columns": [
+        "t",
+        "i",
+        "bin",
+        "active",
+        "activation_count",
+        "update_count",
+        "reacquisition_count",
+        "unresolved_count",
+        "raw_crossing_count",
+        "source_time",
+        "handoff_inventory",
+        "inventory",
+        "cumulative_edge_outflow",
+        "cumulative_work",
+        "thickness",
+        "midpoint",
+        "radius",
+        "width",
+        "delta",
+        "face_flux_inner",
+        "face_flux_outer"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0200_20261001/results/F-R-C-U0200-L12-81b22adeba024ea1fdf5321dea2e23ccc47d99b2e6aec1641e278cf91d96478d/attempt-20261001T082139Z-film-on/data/film_state_primitive.dat",
+      "source_sha256": "a028a10453fca318df8184effb9a415f3b9573c060935018910be26924562a31",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0200/s1/film_state_primitive/film_state_primitive.part-0001.csv",
+          "bytes": 511903,
+          "sha256": "d731f4b6d35b3cbc7ad8810f133d9c871342be101cac6bc1d343d39bc2eb13af"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0200/s1/film_state_primitive/film_state_primitive.part-0002.csv",
+          "bytes": 511787,
+          "sha256": "63f53ccd633ace2fe3fc0bf6dd44604cb050e07a342bbaad6efc6bdfc0e03249"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0200/s1/film_state_primitive/film_state_primitive.part-0003.csv",
+          "bytes": 511870,
+          "sha256": "2bbc992a5f08f752c59668abd1569454f2e8cd0e4d863839e6eb54a7c1ff99c5"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0200/s1/film_state_primitive/film_state_primitive.part-0004.csv",
+          "bytes": 511957,
+          "sha256": "c7ce69cd56b18e2f49cc9a72f311cfeea26c2a9fb088ccf798eb28589d50b5a1"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0200/s1/film_state_primitive/film_state_primitive.part-0005.csv",
+          "bytes": 511774,
+          "sha256": "17640494a23093028a70d2b102d97d68027452cac68e657e62bdac542b3359a3"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0200/s1/film_state_primitive/film_state_primitive.part-0006.csv",
+          "bytes": 72719,
+          "sha256": "2b39710ed928037825f39dee73c4d6abafd56686000d2ad3409f29e84d12a5fe"
+        }
+      ]
+    },
+    {
+      "case": "U0200",
+      "segment": "s1",
+      "table": "film_state_stats",
+      "rows": 3001,
+      "columns": [
+        "t",
+        "i",
+        "dt",
+        "state_status",
+        "state_valid",
+        "active",
+        "handed_off",
+        "reacquired",
+        "activation_count",
+        "update_count",
+        "handoff_time",
+        "handoff_raw_valid_area",
+        "handoff_raw_crossed_bins",
+        "handoff_corridor_at_maxlevel",
+        "observation_status",
+        "observation_valid",
+        "virtual_kinematics",
+        "raw_available",
+        "raw_valid_area",
+        "raw_crossed",
+        "raw_unresolved",
+        "min_state_gap",
+        "min_raw_gap",
+        "max_state_raw_gap_discrepancy",
+        "film_dt_limit",
+        "inventory_before",
+        "inventory_after",
+        "expected_inventory_after",
+        "inventory_residual",
+        "edge_flux",
+        "reynolds_flux_residual",
+        "reynolds_continuity_residual",
+        "reynolds_pressure_residual",
+        "traction_valid",
+        "traction_active",
+        "traction_applied",
+        "requested_lower_force",
+        "requested_upper_force",
+        "requested_net_force",
+        "actual_lower_force",
+        "actual_upper_force",
+        "actual_net_force",
+        "lower_force_residual",
+        "upper_force_residual",
+        "net_force_residual",
+        "force_audit_tolerance",
+        "application_roundoff_faces",
+        "swamped_increment_faces",
+        "maximum_application_error",
+        "application_force_error_l1",
+        "missing_lower_support_bins",
+        "missing_upper_support_bins",
+        "identity_audit_failed",
+        "force_audit_failed",
+        "force_audit_nonfinite",
+        "actual_net_moment",
+        "moment_audit_tolerance",
+        "radial_first_moment_imbalance",
+        "radial_first_moment_tolerance",
+        "max_bin_force_imbalance",
+        "step_work",
+        "cumulative_work",
+        "positive_film_work",
+        "contact_corridor_at_maxlevel",
+        "restart_restored",
+        "restart_state_time",
+        "restart_continuity_error"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0200_20261001/results/F-R-C-U0200-L12-81b22adeba024ea1fdf5321dea2e23ccc47d99b2e6aec1641e278cf91d96478d/attempt-20261001T082139Z-film-on/data/film_state_stats.dat",
+      "source_sha256": "6cab285a6cbd18b8c6e597bcec530c418d3650eebf4ff050735aabe09113ee31",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0200/s1/film_state_stats/film_state_stats.part-0001.csv",
+          "bytes": 511854,
+          "sha256": "8f7198c04f74efd3b73a5f6483984c723ed8e82cd7db0cdd6df915dbeb2da13c"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0200/s1/film_state_stats/film_state_stats.part-0002.csv",
+          "bytes": 511610,
+          "sha256": "99800020dfc7e79d068e011f988d9b0a05ef99fa83679d1989ce528669004f9b"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0200/s1/film_state_stats/film_state_stats.part-0003.csv",
+          "bytes": 497196,
+          "sha256": "4ed612d1c39cbdb8719b07ef6bc809eeda2c09488f8d84d91e5ef4b87855df1b"
+        }
+      ]
+    },
+    {
+      "case": "U0200",
+      "segment": "s1",
+      "table": "initialization_audit",
+      "rows": 1,
+      "columns": [
+        "profile_mode",
+        "requested_gap",
+        "plic_gap",
+        "plic_valid",
+        "lower_center",
+        "upper_center",
+        "lower_u",
+        "upper_u",
+        "envelope_overlap",
+        "gas_overlap",
+        "nesting",
+        "overfill"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0200_20261001/results/F-R-C-U0200-L12-81b22adeba024ea1fdf5321dea2e23ccc47d99b2e6aec1641e278cf91d96478d/attempt-20261001T082139Z-film-on/data/initialization_audit.dat",
+      "source_sha256": "aab6d1e5f062df797859def7e1beea77865b5c4b1521aa52ab5f7d2e2db08a94",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0200/s1/initialization_audit/initialization_audit.part-0001.csv",
+          "bytes": 319,
+          "sha256": "f8b531dbac9463c2d20bc1b6d1ba371a84a74f8002ddeb1d24fb14f5b3c2170c"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "anchor_stats",
+      "rows": 2920,
+      "columns": [
+        "t",
+        "i",
+        "dt",
+        "cells",
+        "lower_center",
+        "upper_center",
+        "lower_u",
+        "upper_u",
+        "closing_speed",
+        "moment_gap",
+        "plic_gap",
+        "plic_valid",
+        "lower_samples",
+        "upper_samples",
+        "anchor_active",
+        "released_this_step",
+        "anchor_acceleration",
+        "anchor_feedforward",
+        "effective_mass",
+        "support_volume",
+        "buoyancy_force",
+        "reaction_force",
+        "reaction_power",
+        "constraint_work",
+        "release_time",
+        "release_gap",
+        "saturation_count",
+        "lower_gas_drift",
+        "lower_oil_drift",
+        "upper_gas_drift",
+        "upper_oil_drift",
+        "nesting_volume",
+        "envelope_overlap_volume",
+        "gas_overlap_volume",
+        "overfill_volume",
+        "maximum_speed",
+        "umax_x",
+        "umax_y",
+        "umax_water_fraction",
+        "umax_oil_fraction",
+        "umax_gas_fraction",
+        "lower_outer_interface_velocity_rms",
+        "lower_outer_interface_velocity_max",
+        "lower_gas_interface_velocity_rms",
+        "lower_gas_interface_velocity_max",
+        "upper_outer_interface_velocity_rms",
+        "upper_outer_interface_velocity_max",
+        "upper_gas_interface_velocity_rms",
+        "upper_gas_interface_velocity_max",
+        "projected_volume_change",
+        "pressure_iterations",
+        "scaled_pressure_residual",
+        "viscosity_iterations",
+        "viscosity_residual",
+        "momentum_transport_mode",
+        "invalid_cells",
+        "invalid_faces",
+        "transport_failed",
+        "max_cell_partition_defect",
+        "max_face_partition_defect",
+        "max_vof_bound_defect",
+        "max_partition_correction",
+        "nested_plic_fallbacks",
+        "nested_plic_fallbacks_max",
+        "transport_cpu_seconds",
+        "lower_aspect",
+        "upper_aspect",
+        "kinetic_energy",
+        "surface_energy",
+        "pressure_integral",
+        "film_mean_pressure",
+        "film_max_pressure",
+        "film_support_volume",
+        "lower_contact_delta",
+        "upper_contact_delta",
+        "film_cells",
+        "film_distribution_valid_bins",
+        "film_distribution_total_bins",
+        "film_valid_area_fraction",
+        "film_nonpositive_gap_bins",
+        "film_min_gap",
+        "film_min_cells",
+        "film_p10_cells",
+        "film_median_cells",
+        "film_resolved_area_fraction"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/anchor_stats.dat",
+      "source_sha256": "dfd23ea3e71bf3708c54440f4f511a7f0e2e5233234994305ef1ec3485a4146c",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/anchor_stats/anchor_stats.part-0001.csv",
+          "bytes": 511030,
+          "sha256": "c79d4d9339f9d3172ac8957c62a8e79a115cba59662b40a86454bcf8560e2a92"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/anchor_stats/anchor_stats.part-0002.csv",
+          "bytes": 511692,
+          "sha256": "c5326ba16d8e21bee836d3e30261c3d5aae0ed393914cce7b13ec5e32e4cb543"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/anchor_stats/anchor_stats.part-0003.csv",
+          "bytes": 511600,
+          "sha256": "ccdc36dbe05bedd2e7447a3967f1957b23b105d9e3260fa302b77f26b8fea0b3"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/anchor_stats/anchor_stats.part-0004.csv",
+          "bytes": 511387,
+          "sha256": "2f8d323450c8e01606623e1704721514f9a7508981753ebab84bf6420aff7e64"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/anchor_stats/anchor_stats.part-0005.csv",
+          "bytes": 511676,
+          "sha256": "404fbf8c97d76b246f1786e144a5a3fb9f1a844d4f2c12c06f0bf6ae730a36e2"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/anchor_stats/anchor_stats.part-0006.csv",
+          "bytes": 511396,
+          "sha256": "5d10221f147e5e5ce3dc0a666035d95c714ea30ca6c3c0590370053dcc23236e"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/anchor_stats/anchor_stats.part-0007.csv",
+          "bytes": 464044,
+          "sha256": "59234bed6ba49bd27a6d07502762b82c9c57e7779b7294aa5809d393e9cfcbec"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "coalescence_stats",
+      "rows": 2920,
+      "columns": [
+        "t",
+        "i",
+        "merged",
+        "trigger_time",
+        "trigger_h",
+        "hcrit",
+        "gas_components",
+        "envelope_components",
+        "gas_volume",
+        "oil_volume",
+        "gas_drift",
+        "oil_drift",
+        "seed_gas_error",
+        "seed_oil_error",
+        "seed_momentum_error",
+        "velocity_correction",
+        "seed_dke",
+        "seed_dse",
+        "gas_water_mixed_volume",
+        "gas_water_contact_max"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/coalescence_stats.dat",
+      "source_sha256": "b2dcece0d44f928d89154434ed84e95a62af4d60526d3f383f2d7e2a407169e5",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/coalescence_stats/coalescence_stats.part-0001.csv",
+          "bytes": 511856,
+          "sha256": "a2a0018f70b82adf66bb9a84d7351dbf6378e8091bf9beb33d58e8443befc4ac"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/coalescence_stats/coalescence_stats.part-0002.csv",
+          "bytes": 143533,
+          "sha256": "ffb8bbd332cded68b21da077ff58669e31a67a9ef08c4d4c2eb6d3fa7256bd9f"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "contact_amr_stats",
+      "rows": 2920,
+      "columns": [
+        "t",
+        "i",
+        "active",
+        "forced_cells",
+        "lower_top",
+        "upper_bottom",
+        "gap",
+        "finest_delta"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/contact_amr_stats.dat",
+      "source_sha256": "f61e2b78d846aae55fdbcb3500d226a8274dfbe565a1e19ebf6b9375e27ddc07",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/contact_amr_stats/contact_amr_stats.part-0001.csv",
+          "bytes": 365886,
+          "sha256": "8c0b2a6073a3c3abf32da16012a39f7c877f955321d2631ee6fd087a84bc5833"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_primitive",
+      "rows": 9344,
+      "columns": [
+        "t",
+        "i",
+        "bin",
+        "active",
+        "activation_count",
+        "update_count",
+        "reacquisition_count",
+        "unresolved_count",
+        "raw_crossing_count",
+        "source_time",
+        "handoff_inventory",
+        "inventory",
+        "cumulative_edge_outflow",
+        "cumulative_work",
+        "thickness",
+        "midpoint",
+        "radius",
+        "width",
+        "delta",
+        "face_flux_inner",
+        "face_flux_outer"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/film_state_primitive.dat",
+      "source_sha256": "12169bef54eaa271006b87d8b7d2208df53d30494c30e4cf4ff09bba7bbafa79",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_primitive/film_state_primitive.part-0001.csv",
+          "bytes": 511812,
+          "sha256": "6d5143cd550aaa5bb427e63a35009d27517dc4337b2405304528935e63f894b3"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_primitive/film_state_primitive.part-0002.csv",
+          "bytes": 511825,
+          "sha256": "c45d79452fe633e33cfbd50a49311db934266636ecce2e3d6143ac492d4ccb6a"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_primitive/film_state_primitive.part-0003.csv",
+          "bytes": 511985,
+          "sha256": "0ac4c3cb35374e94957da554d6f77f5596b4805d780dd16353e3d19c645a9e22"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_primitive/film_state_primitive.part-0004.csv",
+          "bytes": 511704,
+          "sha256": "697f9021bf93134141398e41bf7f6cec73ffba4c78c3a2f7fa998d642ed15276"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_primitive/film_state_primitive.part-0005.csv",
+          "bytes": 504067,
+          "sha256": "4d0258574e5607a647f4ec3b0d636285925bf3054e3493632fd93182a2842371"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00000",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/film_state_reject_rank00000.dat",
+      "source_sha256": "3f39b9207542aa350afeed40838f12a21476e1a011de996c5d58e9e7b14a9014",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_reject_rank00000/film_state_reject_rank00000.part-0001.csv",
+          "bytes": 13639,
+          "sha256": "19d956d7d7395e7905a62b9deafd545d2f92b2cee9a956aaf876d65e3a7b7a53"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00001",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/film_state_reject_rank00001.dat",
+      "source_sha256": "17329e3616e4a8a4c7d9423ed6020f63e78bfe6499d70b940c1b21f56f0ca2e5",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_reject_rank00001/film_state_reject_rank00001.part-0001.csv",
+          "bytes": 13639,
+          "sha256": "4b9836df05bf4498e222ca3cb282bc828f3ebdd3815ba74612b25ba7d7a5a5e0"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00002",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/film_state_reject_rank00002.dat",
+      "source_sha256": "cc3b1578650d91ffc8d3db5b51de57dc19808176ff27cece110234d8b865932a",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_reject_rank00002/film_state_reject_rank00002.part-0001.csv",
+          "bytes": 13639,
+          "sha256": "19332703e5867af37a00feee571c500d0d38a3724e7493bdee4d11181540ea44"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00003",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/film_state_reject_rank00003.dat",
+      "source_sha256": "b81f7fb2374506ce062712ca9cc02601c8701e005d71d3b0a45c97e99244f52d",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_reject_rank00003/film_state_reject_rank00003.part-0001.csv",
+          "bytes": 13639,
+          "sha256": "8cb996c057ac27358f091e3c593378741de9f574986d9a12d99bd8adc61b4a82"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00004",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/film_state_reject_rank00004.dat",
+      "source_sha256": "7da2cdee2757fb35f374adedd88ca67aaf278273f3cdc486c697abccdc2b9bde",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_reject_rank00004/film_state_reject_rank00004.part-0001.csv",
+          "bytes": 13639,
+          "sha256": "2c8cd01ea1efb05298a441a1e91681808aa92aed51688ab02fc344de558354e2"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00005",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/film_state_reject_rank00005.dat",
+      "source_sha256": "c2edf174cdeb796b6f3f6ddd833d1c5986e740c2a41357266fdab2822fe2559b",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_reject_rank00005/film_state_reject_rank00005.part-0001.csv",
+          "bytes": 13639,
+          "sha256": "cd7d592ca693d20ddfc3b827d5d23b8020f0e20a9d29c851227539c80631a26c"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00006",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/film_state_reject_rank00006.dat",
+      "source_sha256": "6b0e760c422365f8017a9654f2647866c67747c8a1f442b9292360a63745184c",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_reject_rank00006/film_state_reject_rank00006.part-0001.csv",
+          "bytes": 13639,
+          "sha256": "f0e7c8db12e9f119d28e75315c83f695addea49225359285bdcb3e86f4f10710"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00007",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/film_state_reject_rank00007.dat",
+      "source_sha256": "5d02dc5437002c20e3fc7323c4531992bd231d565b86abf834ed36f1ad4c4fb7",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_reject_rank00007/film_state_reject_rank00007.part-0001.csv",
+          "bytes": 13639,
+          "sha256": "5f68b8e2df109a56b4c9404335c3fceac3beed0a7331dc798a2214c926ead59c"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00008",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/film_state_reject_rank00008.dat",
+      "source_sha256": "2e7613cdb1cb4a5d08458d1fe5936b54a5ea8299224c0b855ab2d15183f6427a",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_reject_rank00008/film_state_reject_rank00008.part-0001.csv",
+          "bytes": 13639,
+          "sha256": "06b4a3580d7d8eb7fbc9df6be31eafb51961c3fd51ff63982ecb861f6d8eeec3"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00009",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/film_state_reject_rank00009.dat",
+      "source_sha256": "cbc3da497c82145c1d6f375594ddbd1b89855ec47d7a3e1863d6eba691cb01c1",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_reject_rank00009/film_state_reject_rank00009.part-0001.csv",
+          "bytes": 13639,
+          "sha256": "a942cd346bdafbf13e91a31a1599328b18b44c86a8060c01a69b826e91e3760a"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00010",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/film_state_reject_rank00010.dat",
+      "source_sha256": "49259a4f67cf620d5a8ef96b6c08998c72dde6570774ed77a94e38c555ae8c84",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_reject_rank00010/film_state_reject_rank00010.part-0001.csv",
+          "bytes": 13671,
+          "sha256": "0ee1443783db591770b0bfd20dcb169963f06c6d77ed3b34a4ba18060cece477"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00011",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/film_state_reject_rank00011.dat",
+      "source_sha256": "8df2f3ee01469fc36add3fca3a8015845d25cf939a02de0dffecf3a68b2ac78a",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_reject_rank00011/film_state_reject_rank00011.part-0001.csv",
+          "bytes": 13671,
+          "sha256": "8c189e62c3a83ab8e6a14bf60af74f83a1730b3309a72ed745b290255127b58a"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00012",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/film_state_reject_rank00012.dat",
+      "source_sha256": "5a5d8cac1d69cdc4073358900c072ede986784b0e29b88c9ed2e06bdb7490865",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_reject_rank00012/film_state_reject_rank00012.part-0001.csv",
+          "bytes": 13671,
+          "sha256": "32057070eb39c221bb52d88efed3f89ff8a308f25db005195d5d79e17a8d4f94"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00013",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/film_state_reject_rank00013.dat",
+      "source_sha256": "b20d1959470793c6d52423e13d286ab044bd6e29cca5310b2dd47d99f28204f2",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_reject_rank00013/film_state_reject_rank00013.part-0001.csv",
+          "bytes": 13671,
+          "sha256": "0ed5d429211f263709be697ea47681cb3a3df2ee5fb91ae42938e9313d2b1a98"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00014",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/film_state_reject_rank00014.dat",
+      "source_sha256": "b33967afb987a05ce82ef9ad4c72b8df4a413b6e08d71f80ce4b5c305080d9d9",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_reject_rank00014/film_state_reject_rank00014.part-0001.csv",
+          "bytes": 13671,
+          "sha256": "7c80f245b2996a1eb3beec80385ca47bda63cf232a515b466235633d456e4b72"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_reject_rank00015",
+      "rows": 32,
+      "columns": [
+        "t",
+        "i",
+        "pid",
+        "bin",
+        "state_active",
+        "radius",
+        "width",
+        "state_gap",
+        "raw_gap",
+        "delta",
+        "lower_position",
+        "upper_position",
+        "lower_vn",
+        "upper_vn",
+        "lower_vt",
+        "upper_vt",
+        "raw_relative_vn",
+        "raw_lower_vt",
+        "raw_upper_vt",
+        "pressure",
+        "residual",
+        "inner_flux",
+        "outer_flux"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/film_state_reject_rank00015.dat",
+      "source_sha256": "bcf75b8eb2fbde2f3208c45dd5e312749f4b96f12fbd016bf4e28a773bafa6c1",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_reject_rank00015/film_state_reject_rank00015.part-0001.csv",
+          "bytes": 13671,
+          "sha256": "36ab73854e984da4d0c80291fabf649578a5b7858db8238492b87cbdee7341a4"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "film_state_stats",
+      "rows": 2920,
+      "columns": [
+        "t",
+        "i",
+        "dt",
+        "state_status",
+        "state_valid",
+        "active",
+        "handed_off",
+        "reacquired",
+        "activation_count",
+        "update_count",
+        "handoff_time",
+        "handoff_raw_valid_area",
+        "handoff_raw_crossed_bins",
+        "handoff_corridor_at_maxlevel",
+        "observation_status",
+        "observation_valid",
+        "virtual_kinematics",
+        "raw_available",
+        "raw_valid_area",
+        "raw_crossed",
+        "raw_unresolved",
+        "min_state_gap",
+        "min_raw_gap",
+        "max_state_raw_gap_discrepancy",
+        "film_dt_limit",
+        "inventory_before",
+        "inventory_after",
+        "expected_inventory_after",
+        "inventory_residual",
+        "edge_flux",
+        "reynolds_flux_residual",
+        "reynolds_continuity_residual",
+        "reynolds_pressure_residual",
+        "traction_valid",
+        "traction_active",
+        "traction_applied",
+        "requested_lower_force",
+        "requested_upper_force",
+        "requested_net_force",
+        "actual_lower_force",
+        "actual_upper_force",
+        "actual_net_force",
+        "lower_force_residual",
+        "upper_force_residual",
+        "net_force_residual",
+        "force_audit_tolerance",
+        "application_roundoff_faces",
+        "swamped_increment_faces",
+        "maximum_application_error",
+        "application_force_error_l1",
+        "missing_lower_support_bins",
+        "missing_upper_support_bins",
+        "identity_audit_failed",
+        "force_audit_failed",
+        "force_audit_nonfinite",
+        "actual_net_moment",
+        "moment_audit_tolerance",
+        "radial_first_moment_imbalance",
+        "radial_first_moment_tolerance",
+        "max_bin_force_imbalance",
+        "step_work",
+        "cumulative_work",
+        "positive_film_work",
+        "contact_corridor_at_maxlevel",
+        "restart_restored",
+        "restart_state_time",
+        "restart_continuity_error"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/film_state_stats.dat",
+      "source_sha256": "077d1dcbad73ffeb21a13ac09a3bf7c865d27d2272b05c4ea191d31d9288bf17",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_stats/film_state_stats.part-0001.csv",
+          "bytes": 511985,
+          "sha256": "3ac6b3f75cf88a304e3e568eb6548b46c5e2fb1fb322fbdd9c8336a5c83cfb50"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_stats/film_state_stats.part-0002.csv",
+          "bytes": 511586,
+          "sha256": "004cbcfe137548d6210b132b53f846be991fde97ad89d5d84d605f149dda41cb"
+        },
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/film_state_stats/film_state_stats.part-0003.csv",
+          "bytes": 479778,
+          "sha256": "3f81769dfb58957ba7bcfe068da42308a6be2fcfe7268f109394c9c22a5f216b"
+        }
+      ]
+    },
+    {
+      "case": "U0212",
+      "segment": "s1",
+      "table": "initialization_audit",
+      "rows": 1,
+      "columns": [
+        "profile_mode",
+        "requested_gap",
+        "plic_gap",
+        "plic_valid",
+        "lower_center",
+        "upper_center",
+        "lower_u",
+        "upper_u",
+        "envelope_overlap",
+        "gas_overlap",
+        "nesting",
+        "overfill"
+      ],
+      "source_path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/initialization_audit.dat",
+      "source_sha256": "cd89cfc716c23102f3b2740ccd9a234961737ac80e6af68d3f89cee30db098bd",
+      "parts": [
+        {
+          "path": "analysis/collision-results-20261012-v1/tables/U0212/s1/initialization_audit/initialization_audit.part-0001.csv",
+          "bytes": 320,
+          "sha256": "b16100e29604159e2d2444a48530a62e8083ad0b3228cfc44732bb8b9c381229"
+        }
+      ]
+    }
+  ],
+  "metadata": [
+    {
+      "case": "U010",
+      "sha256": "28c3a33d39f6206dedf4f03dd4e3af251d50c429c8a19742454149221eeb58cb",
+      "path": "oilcoat_collision_f_r_fca689f_20260905/results/F-R-U010-L12-1bbb8f28d605c564a55e056b508a993849bee0849f849b837135ccba48a5bb2e/attempt-20260905T120802Z-film-on/case_manifest.json",
+      "bytes": 885,
+      "repository_path": "analysis/collision-results-20261012-v1/metadata/U010/s1/case_manifest.json"
+    },
+    {
+      "case": "U010",
+      "sha256": "496557aa894e4e314b319602cd670093e0f7841eeed548c66e9fb6cbc857f2cf",
+      "path": "oilcoat_collision_f_r_fca689f_20260905/results/F-R-U010-L12-1bbb8f28d605c564a55e056b508a993849bee0849f849b837135ccba48a5bb2e/attempt-20260905T120802Z-film-on/data/film_state_ledger_final.json",
+      "bytes": 5567,
+      "repository_path": "analysis/collision-results-20261012-v1/metadata/U010/s1/film_state_ledger_final.json"
+    },
+    {
+      "case": "U010",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "path": "oilcoat_collision_f_r_fca689f_20260905/results/F-R-U010-L12-1bbb8f28d605c564a55e056b508a993849bee0849f849b837135ccba48a5bb2e/attempt-20260905T120802Z-film-on/data/nested_plic_cells.csv",
+      "bytes": 0,
+      "repository_path": "analysis/collision-results-20261012-v1/metadata/U010/s1/nested_plic_cells.csv"
+    },
+    {
+      "case": "U010",
+      "sha256": "9fec56d21c0ad137fbb6db00d3d7b4da34ee108aef4ea10cf4f2e2b092b45efd",
+      "path": "oilcoat_collision_f_r_fca689f_20260905/results/F-R-U010-L12-1bbb8f28d605c564a55e056b508a993849bee0849f849b837135ccba48a5bb2e/attempt-20260905T120802Z-film-on/data/upper_profile_metadata.dat",
+      "bytes": 306,
+      "repository_path": "analysis/collision-results-20261012-v1/metadata/U010/s1/upper_profile_metadata.dat"
+    },
+    {
+      "case": "U0183",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "path": "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100/data/nested_plic_cells.csv",
+      "bytes": 0,
+      "repository_path": "analysis/collision-results-20261012-v1/metadata/U0183/s2/nested_plic_cells.csv"
+    },
+    {
+      "case": "U0183",
+      "sha256": "1cba6d6ca8a0d8e65e8ced3a7cc4320c78a855f33cabd0905d09e80d908a648f",
+      "path": "oilcoat_collision_f_r_4798773_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-4798773-from-020200/data/film_state_ledger_final.json",
+      "bytes": 5544,
+      "repository_path": "analysis/collision-results-20261012-v1/metadata/U0183/s3/film_state_ledger_final.json"
+    },
+    {
+      "case": "U0183",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "path": "oilcoat_collision_f_r_4798773_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-4798773-from-020200/data/nested_plic_cells.csv",
+      "bytes": 0,
+      "repository_path": "analysis/collision-results-20261012-v1/metadata/U0183/s3/nested_plic_cells.csv"
+    },
+    {
+      "case": "U0183",
+      "sha256": "000e63ed2d4fd68eb547d0f9f86445ebda42c523bd3bddf9967292f1b5a10dda",
+      "path": "oilcoat_collision_f_r_c702bbe_u0183_20260928/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260928T123551Z-film-on/case_manifest.json",
+      "bytes": 892,
+      "repository_path": "analysis/collision-results-20261012-v1/metadata/U0183/s1/case_manifest.json"
+    },
+    {
+      "case": "U0183",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "path": "oilcoat_collision_f_r_c702bbe_u0183_20260928/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260928T123551Z-film-on/data/nested_plic_cells.csv",
+      "bytes": 0,
+      "repository_path": "analysis/collision-results-20261012-v1/metadata/U0183/s1/nested_plic_cells.csv"
+    },
+    {
+      "case": "U0183",
+      "sha256": "0dbee95fc64afa07106ea131a3a0600b1c999f6a96eabfb9d507e39105345d9d",
+      "path": "oilcoat_collision_f_r_c702bbe_u0183_20260928/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260928T123551Z-film-on/data/upper_profile_metadata.dat",
+      "bytes": 306,
+      "repository_path": "analysis/collision-results-20261012-v1/metadata/U0183/s1/upper_profile_metadata.dat"
+    },
+    {
+      "case": "U0200",
+      "sha256": "d0bd2a58e39ef6a52e3d5f820595d020bc70d1982bf867c601879067de328a0e",
+      "path": "oilcoat_coalescence_a84eaee_u0200_20261001/results/F-R-C-U0200-L12-81b22adeba024ea1fdf5321dea2e23ccc47d99b2e6aec1641e278cf91d96478d/attempt-20261001T082139Z-film-on/case_manifest.json",
+      "bytes": 1465,
+      "repository_path": "analysis/collision-results-20261012-v1/metadata/U0200/s1/case_manifest.json"
+    },
+    {
+      "case": "U0200",
+      "sha256": "a3e8eb475b7e4861e358ea73dcf53ce5b2f9135ba7e3515c6de28048d0aff325",
+      "path": "oilcoat_coalescence_a84eaee_u0200_20261001/results/F-R-C-U0200-L12-81b22adeba024ea1fdf5321dea2e23ccc47d99b2e6aec1641e278cf91d96478d/attempt-20261001T082139Z-film-on/data/film_state_ledger_final.json",
+      "bytes": 5539,
+      "repository_path": "analysis/collision-results-20261012-v1/metadata/U0200/s1/film_state_ledger_final.json"
+    },
+    {
+      "case": "U0200",
+      "sha256": "5b305b4ccdfc01f86476c5768819b06ee2123d2c2e8bb2b709511129dd914ec6",
+      "path": "oilcoat_coalescence_a84eaee_u0200_20261001/results/F-R-C-U0200-L12-81b22adeba024ea1fdf5321dea2e23ccc47d99b2e6aec1641e278cf91d96478d/attempt-20261001T082139Z-film-on/data/final_dump_probe.json",
+      "bytes": 290,
+      "repository_path": "analysis/collision-results-20261012-v1/metadata/U0200/s1/final_dump_probe.json"
+    },
+    {
+      "case": "U0200",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "path": "oilcoat_coalescence_a84eaee_u0200_20261001/results/F-R-C-U0200-L12-81b22adeba024ea1fdf5321dea2e23ccc47d99b2e6aec1641e278cf91d96478d/attempt-20261001T082139Z-film-on/data/nested_plic_cells.csv",
+      "bytes": 0,
+      "repository_path": "analysis/collision-results-20261012-v1/metadata/U0200/s1/nested_plic_cells.csv"
+    },
+    {
+      "case": "U0200",
+      "sha256": "5e850b7f9b7eb2c42354451de0193324b46791b8312785eedae2f2258d0f50f2",
+      "path": "oilcoat_coalescence_a84eaee_u0200_20261001/results/F-R-C-U0200-L12-81b22adeba024ea1fdf5321dea2e23ccc47d99b2e6aec1641e278cf91d96478d/attempt-20261001T082139Z-film-on/data/upper_profile_metadata.dat",
+      "bytes": 306,
+      "repository_path": "analysis/collision-results-20261012-v1/metadata/U0200/s1/upper_profile_metadata.dat"
+    },
+    {
+      "case": "U0212",
+      "sha256": "9422eb304e298f6920682f10dce5973101c0c782d6594ed5fc6bf99d53b3db9f",
+      "path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/case_manifest.json",
+      "bytes": 1465,
+      "repository_path": "analysis/collision-results-20261012-v1/metadata/U0212/s1/case_manifest.json"
+    },
+    {
+      "case": "U0212",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/nested_plic_cells.csv",
+      "bytes": 0,
+      "repository_path": "analysis/collision-results-20261012-v1/metadata/U0212/s1/nested_plic_cells.csv"
+    },
+    {
+      "case": "U0212",
+      "sha256": "611afa13a9f3da6cd6c0d6f37217f898214dd4bbb884bd4061a8f0ecccb70666",
+      "path": "oilcoat_coalescence_a84eaee_u0212_20261001/results/F-R-C-U0212-L12-4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114/attempt-20261001T143617Z-film-on/data/upper_profile_metadata.dat",
+      "bytes": 306,
+      "repository_path": "analysis/collision-results-20261012-v1/metadata/U0212/s1/upper_profile_metadata.dat"
+    }
+  ]
+}

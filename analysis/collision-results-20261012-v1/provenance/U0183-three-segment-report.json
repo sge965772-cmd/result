@@ -1,0 +1,116 @@
+{
+  "attempts": [
+    "/home/user/liming-collision/oilcoat_collision_f_r_c702bbe_u0183_20260928/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260928T123551Z-film-on",
+    "/home/user/liming-collision/oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-432bdec-from-016100",
+    "/home/user/liming-collision/oilcoat_collision_f_r_4798773_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8/attempt-20260929-frozen-4798773-from-020200"
+  ],
+  "case_hash": "9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8",
+  "case_id": "F-R-U0183-L12-PLIC7",
+  "checkpoint_times_s": [
+    0.0161,
+    0.0202
+  ],
+  "expected_end_time_s": 0.03,
+  "failed_tails_excluded": true,
+  "final_dump_sha256": "50f75b8039c12817c1af3ff4a7d274e701bb099c847e582df911de4f516875b6",
+  "full_history_physics": {
+    "active_film_samples": 2448,
+    "attempt_status": "completed-gated",
+    "claim_scope": [
+      "screening-boundary",
+      "non-predictive",
+      "no-rupture-model"
+    ],
+    "film_handoff_count": 1,
+    "gates": {
+      "contact_band_at_finest_level": true,
+      "film_actual_pair_force": true,
+      "film_flux_closure": true,
+      "film_handoff_quality": true,
+      "film_inventory_closure": true,
+      "film_nonpositive_work": true,
+      "film_state_positive": true,
+      "film_traction_applied": true,
+      "film_valid_area_fraction": true,
+      "finite_observables": true,
+      "normal_completion": true,
+      "persistent_rebound": true,
+      "phase_inventory": true,
+      "post_release_anchor_zero": true,
+      "pressure_projection": true,
+      "runtime_film_ledger": true,
+      "topology_identity": true,
+      "transport_partition": true,
+      "viscous_convergence": true
+    },
+    "maximum_actual_force_residual": 1.6940658945086007e-21,
+    "maximum_actual_net_moment": 0.0,
+    "maximum_bin_force_imbalance": 1.5881867761018131e-22,
+    "maximum_cumulative_film_work": -7.450958422858036e-20,
+    "maximum_identity_defect": 1.1889496557432166e-13,
+    "maximum_phase_drift": 6.988000330969917e-05,
+    "maximum_projected_volume_change": 2.484554541263352e-07,
+    "maximum_radial_first_moment_imbalance": 4.454999008598664e-13,
+    "maximum_scaled_pressure_residual": 9.998855127589366e-12,
+    "maximum_step_film_work": 0.0,
+    "maximum_viscosity_residual": 9.997407233868025e-06,
+    "minimum_effective_film_gap_m": 1.4133806292888758e-05,
+    "minimum_film_valid_area_fraction": 0.9462890624999999,
+    "minimum_raw_plic_gap_m": 2.654218368269151e-07,
+    "minimum_same_radius_plic_gap_m": 2.654218368269151e-07,
+    "minimum_support_projection_gap_m": -3.862424350325501e-05,
+    "passed": true,
+    "rebound_duration_s": 0.018859999999999884,
+    "required_recovery_m": 7.8125e-05,
+    "runtime_ledger_cumulative_work": -1.6900464175911568e-11,
+    "runtime_raw_crossing_observations": 573,
+    "runtime_unresolved_observations": 573,
+    "schema": "f-r-stateful-collision-attempt-audit-v2",
+    "transport": {
+      "expected_momentum_transport_mode": 4,
+      "finite": true,
+      "max_cell_partition_defect": 4.551914400963142e-15,
+      "max_face_partition_defect": 0.0,
+      "max_invalid_cells": 0,
+      "max_invalid_faces": 0,
+      "max_partition_correction": 5.108371503581566e-10,
+      "max_vof_bound_defect": 5.108371503581566e-10,
+      "momentum_transport_mode": 4,
+      "partition_defect_tolerance": 1e-08,
+      "passed": true,
+      "transport_failed": false,
+      "vof_bound_tolerance": 0.001
+    }
+  },
+  "gates": {
+    "compile_and_source_integrity": true,
+    "failed_tails_after_checkpoints": true,
+    "final_native_dump": true,
+    "final_restart_window_audit": true,
+    "final_solver_exit": true,
+    "first_restart_binding": true,
+    "l12_case_contract": true,
+    "precursor_and_profile_hashes": true,
+    "same_case_16_ranks_l12": true,
+    "second_restart_binding": true,
+    "three_source_commits_and_manifests": true
+  },
+  "numerically_accepted": true,
+  "precursor_dump_sha256": "c778cf3a04da9f45ab023b0b2b50755a797226784896dda0ff5384080b1e1adb",
+  "publication_note": "A complete numerical chain is distinct from the production video and artifact registration, which require a separate composite package.",
+  "publication_package_complete": false,
+  "restart_dump_sha256": [
+    "b4654ec8025b01d061d11a4c7d7ff18c50cef1d4d848c0b3c150af47b88d464f",
+    "5eb0133200528055d6b2166fd10515b43096cc817482e2005e9c4fd86ad6c95a"
+  ],
+  "restart_state_sha256": [
+    "da8a3b7c6164ee0b5255d08d49c241b9d73f60320f6e0a7106553f66bb9ee2ae",
+    "12820b5cc2612839428a4387cbe5c92ed768dcbae20cd7ea26b1c6d07c45d1e1"
+  ],
+  "schema": "f-r-three-segment-collision-numerical-audit-v1",
+  "source_commits": [
+    "c702bbe5945a1c5fa584ba853311fb74e95f407e",
+    "432bdec74b5848587a81d2aad051c3ff66e06bb2",
+    "479877399db4075f6c4a21eb8fdb72c0eb1c2482"
+  ]
+}

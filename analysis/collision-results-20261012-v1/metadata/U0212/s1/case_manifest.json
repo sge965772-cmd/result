@@ -1,0 +1,38 @@
+{
+  "case_hash": "4e27f94d837df3ef7dc989a3688b508405990d39cfa674efd2257ab6751d1114",
+  "case_id": "F-R-C-U0212-L12",
+  "claim_scope": "screening-boundary,non-predictive,calibrated-rupture-model",
+  "coalescence": {
+    "calibration_report_path": "/home/user/liming-collision/frozen-u0183-l12-20260929T1820/audit/three-segment-report.json",
+    "calibration_report_sha256": "e816a60f058dda113885abe6a0d307dc4dae241cc23184d5cd1c320b304b97c4",
+    "critical_water_film_m": 1.4133806292888758e-05,
+    "envelope_neck_cells": 4.0,
+    "gas_neck_cells": 2.0,
+    "oil_rupture_hypothesis": "instantaneous-cascade"
+  },
+  "enable_stateful_film": 1,
+  "film_adapter_override": "on",
+  "film_state_model": "axisymmetric-stateful-reynolds-film-v1",
+  "grid_role": "golden",
+  "molecular_rupture_validated": false,
+  "np": 16,
+  "numerics": {
+    "anchor_release_gap_m": 7.8125e-05,
+    "domain_length": 0.08,
+    "dt_max": 2.5e-07,
+    "dump_interval": 0.0001,
+    "end_time": 0.03,
+    "initial_gap_m": 0.0008,
+    "initial_gap_tolerance_cells": 0.5,
+    "maxlevel": 12,
+    "minlevel": 7,
+    "oil_volume_fraction": 0.2,
+    "outer_radius_m": 0.001320572320256714,
+    "output_interval": 1e-05
+  },
+  "schema": "calibrated-coalescence-production-attempt-v1",
+  "source_commit": "a84eaeea5db8575264e48c980fe0297d2addd46a",
+  "source_sha256_manifest": "inputs/source_sha256s.txt",
+  "topology_policy": "calibrated-fast-cascade-v1",
+  "trigger_observation_interval_s": 1e-05
+}
