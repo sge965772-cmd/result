@@ -32,7 +32,7 @@ GitHub 连接是否可用取决于当前账号与聊天环境；本次发布实�
 python fetch_analysis.py --output-dir chatgpt_upload
 ```
 
-本次也提供了约 5 MB 的四组核心 CSV 下载包。这个包用于方便传输；**最稳妥的附件是解压后的四个 CSV 和 DATA_DICTIONARY.md**，不需要上传四个约 0.7 GB 的原始 tar.gz。
+本次也提供了 [四组核心 CSV 下载包（5.83 MB）](ChatGPT_four_collision_core_csv.zip)；打开后选择 Download raw file 下载。这个包用于方便传输；**最稳妥的附件是解压后的四个 CSV 和 DATA_DICTIONARY.md**，不需要上传四个约 0.7 GB 的原始 tar.gz。
 
 ## 可复制到 ChatGPT 的请求
 

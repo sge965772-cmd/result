@@ -11,6 +11,10 @@
     "bytes": 135142,
     "sha256": "1b4f47d322cdf8288781387e502c57fb4fb2dc59f3d1dc338026ef7824873a30"
   },
+  "ChatGPT_four_collision_core_csv.zip": {
+    "bytes": 5833020,
+    "sha256": "be070cedf2f75fa14cd360052aa19248edc2f1c2dc0cb2b9945f122b5e1a2b6d"
+  },
   "DATA_DICTIONARY.md": {
     "bytes": 4629,
     "sha256": "7090ee47dab5292d39fc5487a31cb091cde9d471d32ccca82d803721073d066c"
@@ -20,12 +24,16 @@
     "sha256": "85e53f3303dc7c9c81b447e7c1c1fceb57ae21000d1ffb70e73e65aa54a88c35"
   },
   "README.md": {
-    "bytes": 4928,
-    "sha256": "2d988258142a801ccb6a9cda6a2c3bfc9648db612b79426b6b481d756c867ef8"
+    "bytes": 5061,
+    "sha256": "dc375104f67e447cb8204821e014d8658b187e8b486d68ace5e43ec252659a03"
   },
   "test_analysis_tables.py": {
     "bytes": 1669,
     "sha256": "4d7c5c1f6fc1a980615772c5b898158a10997569991fe11bcd966f80dfc11d72"
+  },
+  "UPLOAD_PACKAGE.json": {
+    "bytes": 289,
+    "sha256": "6a0029170363e3bbf3bedde31cd6e7b6b9b98bcf2707037b8fe97e57fc9b3ba8"
   },
   "VERIFICATION.json": {
     "bytes": 11978,
