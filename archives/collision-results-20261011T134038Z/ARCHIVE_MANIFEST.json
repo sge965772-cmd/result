@@ -1,0 +1,211 @@
+{
+  "schema": "four-collision-results-archive-v1",
+  "status": "COMPLETE",
+  "completed_at_utc": "2026-10-11T14:04:05Z",
+  "scope": "four formal collision result datasets only; U0183 includes three formal segments",
+  "source_host": "user@10.241.14.14",
+  "server_base": "/home/user/liming-collision",
+  "destination": "E:/DNS/liming/collision-results-20261011T134038Z",
+  "raw_datasets": [
+    {
+      "case": "U010",
+      "file_count": 590,
+      "bytes": 1455708278
+    },
+    {
+      "case": "U0183",
+      "file_count": 523,
+      "bytes": 1624757864
+    },
+    {
+      "case": "U0200",
+      "file_count": 391,
+      "bytes": 1656613081
+    },
+    {
+      "case": "U0212",
+      "file_count": 385,
+      "bytes": 1633485652
+    }
+  ],
+  "remote_roots": [
+    {
+      "case": "U010",
+      "members": [
+        "oilcoat_collision_f_r_fca689f_20260905/results/F-R-U010-L12-1bbb8f28d605c564a55e056b508a993849bee0849f849b837135ccba48a5bb2e"
+      ]
+    },
+    {
+      "case": "U0183",
+      "members": [
+        "oilcoat_collision_f_r_c702bbe_u0183_20260928/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8",
+        "oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8",
+        "oilcoat_collision_f_r_4798773_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8"
+      ]
+    },
+    {
+      "case": "U0200",
+      "members": [
+        "oilcoat_coalescence_a84eaee_u0200_20261001/results"
+      ]
+    },
+    {
+      "case": "U0212",
+      "members": [
+        "oilcoat_coalescence_a84eaee_u0212_20261001/results"
+      ]
+    }
+  ],
+  "excluded": [
+    "standalone precursor banks",
+    "diagnostic replays and preflights",
+    "duplicate frozen data packages",
+    "postprocessing figure copies",
+    "H15, Track A, L11/L13, planar cases"
+  ],
+  "source_file_total": 1889,
+  "raw_logical_bytes_total": 6370564875,
+  "compressed_archive_bytes_total": 2933969508,
+  "source_files_verified_total": 1889,
+  "archive_format": "GNU tar POSIX/PAX with atime/ctime excluded, gzip -n -1; original data bytes retained",
+  "archives": [
+    {
+      "case": "U010",
+      "file": "U010-collision-results.tar.gz",
+      "compressed_bytes": 671280074,
+      "sha256": "ae5793f6160bb5066c7d9c80db49c290042937c35489057d4e4ddfed8148d123",
+      "remote_stream_sha256_equals_local": true,
+      "original_file_count": 590,
+      "original_logical_bytes": 1455708278,
+      "server_source_paths": [
+        "/home/user/liming-collision/oilcoat_collision_f_r_fca689f_20260905/results/F-R-U010-L12-1bbb8f28d605c564a55e056b508a993849bee0849f849b837135ccba48a5bb2e"
+      ],
+      "source_file_sha256_manifest": "U010-source-files.sha256",
+      "source_file_sha256_manifest_sha256": "f904ebf0ba88207669546fc0325dff00a7761d487ca88971792f4795b57507d1",
+      "content_verification": {
+        "case": "U010",
+        "archive": "E:\\DNS\\liming\\collision-results-20261011T134038Z\\U010-collision-results.tar.gz",
+        "source_files": 590,
+        "verified_files": 590,
+        "logical_bytes": 1455708278,
+        "directory_entries": 9,
+        "all_source_files_sha256_match": true,
+        "complete_file_set": true,
+        "result": "PASS"
+      }
+    },
+    {
+      "case": "U0183",
+      "file": "U0183-collision-results.tar.gz",
+      "compressed_bytes": 749519449,
+      "sha256": "acc49647b8edbeae768e778f7568712ee0252fa0ac9ab2dc1c8b2971003650ed",
+      "remote_stream_sha256_equals_local": true,
+      "original_file_count": 523,
+      "original_logical_bytes": 1624757864,
+      "server_source_paths": [
+        "/home/user/liming-collision/oilcoat_collision_f_r_c702bbe_u0183_20260928/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8",
+        "/home/user/liming-collision/oilcoat_collision_f_r_432bdec_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8",
+        "/home/user/liming-collision/oilcoat_collision_f_r_4798773_u0183_20260929/results/F-R-U0183-L12-PLIC7-9f2a66e5466738d810ff2a6c77658a782c2fc8314c1784a068843f0c42fb21a8"
+      ],
+      "source_file_sha256_manifest": "U0183-source-files.sha256",
+      "source_file_sha256_manifest_sha256": "e63319bae4f833c679ae3598bdc8cee6608e077a39e6e1620a73c15d95caf3f1",
+      "content_verification": {
+        "case": "U0183",
+        "archive": "E:\\DNS\\liming\\collision-results-20261011T134038Z\\U0183-collision-results.tar.gz",
+        "source_files": 523,
+        "verified_files": 523,
+        "logical_bytes": 1624757864,
+        "directory_entries": 19,
+        "all_source_files_sha256_match": true,
+        "complete_file_set": true,
+        "result": "PASS"
+      }
+    },
+    {
+      "case": "U0200",
+      "file": "U0200-collision-results.tar.gz",
+      "compressed_bytes": 762042738,
+      "sha256": "fb92da339a76dcfba44255d3689b370ce15bbb72a6908bb6c99d9a3e58ab2473",
+      "remote_stream_sha256_equals_local": true,
+      "original_file_count": 391,
+      "original_logical_bytes": 1656613081,
+      "server_source_paths": [
+        "/home/user/liming-collision/oilcoat_coalescence_a84eaee_u0200_20261001/results"
+      ],
+      "source_file_sha256_manifest": "U0200-source-files.sha256",
+      "source_file_sha256_manifest_sha256": "b8f198bfccb2e1cd2b20630fa8ff855212c6c173bc7ace34341df21ad12af94d",
+      "content_verification": {
+        "case": "U0200",
+        "archive": "E:\\DNS\\liming\\collision-results-20261011T134038Z\\U0200-collision-results.tar.gz",
+        "source_files": 391,
+        "verified_files": 391,
+        "logical_bytes": 1656613081,
+        "directory_entries": 8,
+        "all_source_files_sha256_match": true,
+        "complete_file_set": true,
+        "result": "PASS"
+      }
+    },
+    {
+      "case": "U0212",
+      "file": "U0212-collision-results.tar.gz",
+      "compressed_bytes": 751127247,
+      "sha256": "b69c520bb4f0e29eb0ef96dcafd674dcbae9e187be569abad3f7456940ef16de",
+      "remote_stream_sha256_equals_local": true,
+      "original_file_count": 385,
+      "original_logical_bytes": 1633485652,
+      "server_source_paths": [
+        "/home/user/liming-collision/oilcoat_coalescence_a84eaee_u0212_20261001/results"
+      ],
+      "source_file_sha256_manifest": "U0212-source-files.sha256",
+      "source_file_sha256_manifest_sha256": "26a867dae7b0f596be77a0eeb6d9dbac059e551ca5f7f73c461fb1427f322b3d",
+      "content_verification": {
+        "case": "U0212",
+        "archive": "E:\\DNS\\liming\\collision-results-20261011T134038Z\\U0212-collision-results.tar.gz",
+        "source_files": 385,
+        "verified_files": 385,
+        "logical_bytes": 1633485652,
+        "directory_entries": 8,
+        "all_source_files_sha256_match": true,
+        "complete_file_set": true,
+        "result": "PASS"
+      }
+    }
+  ],
+  "supplemental_reports": [
+    {
+      "file": "U0183-three-segment-report.json",
+      "bytes": 5033,
+      "sha256": "e816a60f058dda113885abe6a0d307dc4dae241cc23184d5cd1c320b304b97c4"
+    },
+    {
+      "file": "U0200-audit-summary.md",
+      "bytes": 7313,
+      "sha256": "13011e6dd9cb91f096e8812d3377b4c4212b99b9e00243079f9e7eaceac6831a"
+    },
+    {
+      "file": "U0200-coalescence_acceptance.json",
+      "bytes": 2588,
+      "sha256": "fd4e34c093940f66d9417697fea0a332f68476044a48df02ce53e60723a13e14"
+    },
+    {
+      "file": "U0200-final_dump_probe.json",
+      "bytes": 290,
+      "sha256": "5b305b4ccdfc01f86476c5768819b06ee2123d2c2e8bb2b709511129dd914ec6"
+    }
+  ],
+  "scientific_acceptance_changed": false,
+  "simulation_launched_or_restarted": false,
+  "original_datasets_deleted_or_modified": false,
+  "temporary_cleanup": {
+    "removed_only_current_export_incomplete_uncompressed_partials": true,
+    "removed_bytes": 1323921408,
+    "recoverability": "Server original files and verified final compressed packages remain intact."
+  },
+  "important_outcome_notes": {
+    "U0183": "Formal accepted history is 0->16.1->20.2->30 ms; raw failure tails retained, accepted prefixes described in original three-segment report.",
+    "U0200": "Original calibrated-coalescence candidate completed 30 ms without triggering coalescence; original coalescence acceptance failed.",
+    "U0212": "Actual selected precursor velocity 0.21162571406691141 m/s; original collision failed at approximately 29.19575 ms, iteration 116804, native exit 4; no 30 ms completion inferred."
+  }
+}
+

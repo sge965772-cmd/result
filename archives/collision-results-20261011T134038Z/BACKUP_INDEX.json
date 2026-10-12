@@ -1,0 +1,136 @@
+{
+  "schema": "github-collision-dataset-index-v1",
+  "repository": "sge965772-cmd/result",
+  "data_snapshot": "20261011T134038Z",
+  "release_tag": "collision-results-20261011-v1",
+  "release_url": "https://github.com/sge965772-cmd/result/releases/tag/collision-results-20261011-v1",
+  "uploader_github_login": "sge965772-cmd",
+  "research_creators": "not supplied",
+  "license": "not specified by uploader; no new license assigned",
+  "doi": null,
+  "source_ordinary_files": 1889,
+  "source_logical_bytes": 6370564875,
+  "compressed_bytes": 2933969508,
+  "metadata_files": [
+    {
+      "local_name": "ARCHIVE_MANIFEST.json",
+      "repository_path": "archives/collision-results-20261011T134038Z/ARCHIVE_MANIFEST.json",
+      "bytes": 8504,
+      "sha256": "047a6274dacfa7ac884eecf197ccdf5611193b02f6cb92936acfb8c6d68a1db4"
+    },
+    {
+      "local_name": "README.md",
+      "repository_path": "archives/collision-results-20261011T134038Z/LOCAL_ARCHIVE_README.md",
+      "bytes": 3236,
+      "sha256": "a67bd251e9292e8528713611ef26447e989ca380240858a52d95a22cf8a8e363"
+    },
+    {
+      "local_name": "SHA256SUMS.txt",
+      "repository_path": "archives/collision-results-20261011T134038Z/SHA256SUMS.txt",
+      "bytes": 388,
+      "sha256": "825d81e1e6ba604088d42766864f7a9e8eacc228755cee23ac97a9b9d9169781"
+    },
+    {
+      "local_name": "U010-source-files.sha256",
+      "repository_path": "archives/collision-results-20261011T134038Z/U010-source-files.sha256",
+      "bytes": 148145,
+      "sha256": "f904ebf0ba88207669546fc0325dff00a7761d487ca88971792f4795b57507d1"
+    },
+    {
+      "local_name": "U010-archive-remote.sha256",
+      "repository_path": "archives/collision-results-20261011T134038Z/U010-archive-remote.sha256",
+      "bytes": 69,
+      "sha256": "1214e52b20e37862dff8bca99f97b8dab458674ed30703448956fcb176a6bb90"
+    },
+    {
+      "local_name": "U0183-source-files.sha256",
+      "repository_path": "archives/collision-results-20261011T134038Z/U0183-source-files.sha256",
+      "bytes": 141169,
+      "sha256": "e63319bae4f833c679ae3598bdc8cee6608e077a39e6e1620a73c15d95caf3f1"
+    },
+    {
+      "local_name": "U0183-archive-remote.sha256",
+      "repository_path": "archives/collision-results-20261011T134038Z/U0183-archive-remote.sha256",
+      "bytes": 69,
+      "sha256": "bd10900068e4280ebfbbcdeb765c352336a1ed64e0f2b34dd0022605dff09b69"
+    },
+    {
+      "local_name": "U0200-source-files.sha256",
+      "repository_path": "archives/collision-results-20261011T134038Z/U0200-source-files.sha256",
+      "bytes": 99898,
+      "sha256": "b8f198bfccb2e1cd2b20630fa8ff855212c6c173bc7ace34341df21ad12af94d"
+    },
+    {
+      "local_name": "U0200-archive-remote.sha256",
+      "repository_path": "archives/collision-results-20261011T134038Z/U0200-archive-remote.sha256",
+      "bytes": 69,
+      "sha256": "8fc6e57b5fa4a84ad499f65be512097b52ae58ba1c18b7955b88a42dc9c7e868"
+    },
+    {
+      "local_name": "U0212-source-files.sha256",
+      "repository_path": "archives/collision-results-20261011T134038Z/U0212-source-files.sha256",
+      "bytes": 98580,
+      "sha256": "26a867dae7b0f596be77a0eeb6d9dbac059e551ca5f7f73c461fb1427f322b3d"
+    },
+    {
+      "local_name": "U0212-archive-remote.sha256",
+      "repository_path": "archives/collision-results-20261011T134038Z/U0212-archive-remote.sha256",
+      "bytes": 69,
+      "sha256": "a35a46a6c32dbfd112e1e10362b073995464a6e25976948c30438d2ba2a1e018"
+    },
+    {
+      "local_name": "U0183-three-segment-report.json",
+      "repository_path": "archives/collision-results-20261011T134038Z/U0183-three-segment-report.json",
+      "bytes": 5033,
+      "sha256": "e816a60f058dda113885abe6a0d307dc4dae241cc23184d5cd1c320b304b97c4"
+    },
+    {
+      "local_name": "U0200-audit-summary.md",
+      "repository_path": "archives/collision-results-20261011T134038Z/U0200-audit-summary.md",
+      "bytes": 7313,
+      "sha256": "13011e6dd9cb91f096e8812d3377b4c4212b99b9e00243079f9e7eaceac6831a"
+    },
+    {
+      "local_name": "U0200-coalescence_acceptance.json",
+      "repository_path": "archives/collision-results-20261011T134038Z/U0200-coalescence_acceptance.json",
+      "bytes": 2588,
+      "sha256": "fd4e34c093940f66d9417697fea0a332f68476044a48df02ce53e60723a13e14"
+    },
+    {
+      "local_name": "U0200-final_dump_probe.json",
+      "repository_path": "archives/collision-results-20261011T134038Z/U0200-final_dump_probe.json",
+      "bytes": 290,
+      "sha256": "5b305b4ccdfc01f86476c5768819b06ee2123d2c2e8bb2b709511129dd914ec6"
+    }
+  ],
+  "datasets": [
+    {
+      "case": "U010",
+      "file": "U010-collision-results.tar.gz",
+      "bytes": 671280074,
+      "sha256": "ae5793f6160bb5066c7d9c80db49c290042937c35489057d4e4ddfed8148d123",
+      "download_url": "https://github.com/sge965772-cmd/result/releases/download/collision-results-20261011-v1/U010-collision-results.tar.gz"
+    },
+    {
+      "case": "U0183",
+      "file": "U0183-collision-results.tar.gz",
+      "bytes": 749519449,
+      "sha256": "acc49647b8edbeae768e778f7568712ee0252fa0ac9ab2dc1c8b2971003650ed",
+      "download_url": "https://github.com/sge965772-cmd/result/releases/download/collision-results-20261011-v1/U0183-collision-results.tar.gz"
+    },
+    {
+      "case": "U0200",
+      "file": "U0200-collision-results.tar.gz",
+      "bytes": 762042738,
+      "sha256": "fb92da339a76dcfba44255d3689b370ce15bbb72a6908bb6c99d9a3e58ab2473",
+      "download_url": "https://github.com/sge965772-cmd/result/releases/download/collision-results-20261011-v1/U0200-collision-results.tar.gz"
+    },
+    {
+      "case": "U0212",
+      "file": "U0212-collision-results.tar.gz",
+      "bytes": 751127247,
+      "sha256": "b69c520bb4f0e29eb0ef96dcafd674dcbae9e187be569abad3f7456940ef16de",
+      "download_url": "https://github.com/sge965772-cmd/result/releases/download/collision-results-20261011-v1/U0212-collision-results.tar.gz"
+    }
+  ]
+}
